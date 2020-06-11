@@ -7,24 +7,24 @@ CREATE TABLE IF NOT EXISTS countries (
     code VARCHAR(50) NOT NULL PRIMARY KEY,
     name LONGTEXT NOT NULL,
     flag VARCHAR(30) NOT NULL,
-    created_at timestamp default current_timestamp,
-    updated_at timestamp
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp
 );
 
 CREATE TABLE IF NOT EXISTS roles (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    name ENUM("Author","Reviewer","General-participant","Editor","Admin"),
+    name ENUM("Author","Reviewer","SuperAdmin","Admin"),
     description VARCHAR(100),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp
 );
 
 CREATE TABLE IF NOT EXISTS subjects (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(30),
     description VARCHAR(150),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp
 );
 
 CREATE TABLE IF NOT EXISTS users (
@@ -34,16 +34,16 @@ CREATE TABLE IF NOT EXISTS users (
     email VARCHAR(50) NOT NULL,
     password VARCHAR(255) NOT NULL,
     country_code VARCHAR(50) NOT NULL,
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (country_code) REFERENCES countries(code)
 );
 
 CREATE TABLE IF NOT EXISTS role_user (
     user_id INT NOT NULL,
     role_id INT NOT NULL,
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (user_id) REFERENCES users(id) ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (role_id) REFERENCES roles(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
@@ -57,8 +57,8 @@ CREATE TABLE IF NOT EXISTS submissions (
     co_authors JSON default NULL,
     status ENUM('pending', 'approved', 'rejected'),
     file VARCHAR(255),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (user_id) REFERENCES users(id) ON UPDATE CASCADE ON DELETE CASCADE,
     FOREIGN KEY (subject_id) REFERENCES subjects(id)
 );
@@ -69,8 +69,8 @@ CREATE TABLE IF NOT EXISTS review_scores (
     completeness DECIMAL(2,1),
     subject_knowledge DECIMAL(2,1),
     comments VARCHAR(150),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (submission_id) REFERENCES submissions(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
@@ -79,8 +79,8 @@ CREATE TABLE IF NOT EXISTS support_tickets (
     user_id INT NOT NULL,
     message VARCHAR(500),
     status ENUM('pending', 'inprogress', 'completed'),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (user_id) REFERENCES users(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
@@ -92,8 +92,8 @@ CREATE TABLE IF NOT EXISTS conferences (
     venue VARCHAR(50),
     total_seats INT NOT NULL,
     available_seats INT NOT NULL,
-    created_at timestamp default current_timestamp,
-    updated_at timestamp
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp
 );
 
 CREATE TABLE IF NOT EXISTS tickets (
@@ -102,8 +102,8 @@ CREATE TABLE IF NOT EXISTS tickets (
     conference_id INT NOT NULL,
     type ENUM('General-admission', 'VIP', 'Reserved-Seating', 'Early-bird-discount', 'Coded-discount'),
     price DECIMAL(10,2),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (user_id) REFERENCES users(id),
     FOREIGN KEY (conference_id) REFERENCES conferences(id)
 );
@@ -114,7 +114,7 @@ CREATE TABLE IF NOT EXISTS coupon_codes (
     vendor VARCHAR(50) NOT NULL,
     coupon_code VARCHAR(10) NOT NULL UNIQUE,
     discount DECIMAL(3.1),
-    created_at timestamp default current_timestamp,
-    updated_at timestamp,
+    createdAt timestamp default current_timestamp,
+    updatedAt timestamp,
     FOREIGN KEY (conference_id) REFERENCES conferences(id) ON UPDATE CASCADE ON DELETE CASCADE
 );

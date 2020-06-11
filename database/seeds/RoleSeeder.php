@@ -21,16 +21,12 @@ class RoleSeeder extends Seeder
             'description' => 'A Reviewer can review submissions'
         ]);
         Role::create([
-            'name' => 'General-participant',
-            'description' => 'A General user'
-        ]);
-        Role::create([
-            'name' => 'Editor',
-            'description' => 'An Editor'
-        ]);
-        Role::create([
             'name' => 'Admin',
             'description' => 'An Admin'
+        ]);
+        Role::create([
+            'name' => 'SuperAdmin',
+            'description' => 'A Super Admin'
         ]);
     }
 }
