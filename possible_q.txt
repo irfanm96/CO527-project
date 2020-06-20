@@ -1,0 +1,10 @@
+Some sample queries that we can write
+1.Get submission details from Srilanka
+2.Get the conference revenue by countires
+3.Get Rejected, or accepted submissions of admins with their name
+5.Get submission created in last two months on a prticular subject
+6.Get submissions count for each subject ( may be to display in a pie chart )
+7.Get rejected submission titles with the corresponding user details
+9.Get the submission details with the user where it has the maximum subject_knowledge in the review score ( or top 10 )
+10.Get total discount given by a coupan code for a particlur conference
+11.Get toatl discount given to a vendor( sponsor )
