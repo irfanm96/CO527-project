@@ -1,0 +1,5 @@
+"id","name","description","createdAt","updatedAt"
+"1","Author","An authour can submit papers","2020-06-20 09:03:19",NULL
+"2","Reviewer","A Reviewer can review submissions","2020-06-20 09:03:19",NULL
+"3","Admin","An Admin","2020-06-20 09:03:19",NULL
+"4","SuperAdmin","A Super Admin","2020-06-20 09:03:19",NULL
