@@ -7,7 +7,7 @@ use Faker\Generator as Faker;
 
 $factory->define(Submission::class, function (Faker $faker) {
     return [
-        'subject_id' => $faker->numberBetween($min = 1, $max = 20),
+        'subject_id' => $faker->numberBetween($min = 1, $max = 5),
         'title' => $faker->sentence,
         'status' => $faker->randomElement(['pending', 'approved', 'rejected']),
         'file' => '/submissions/' . $faker->randomNumber() . '.pdf'
