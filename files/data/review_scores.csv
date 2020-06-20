@@ -1,101 +1,1001 @@
 "id","submission_id","completeness","subject_knowledge","comments","createdAt","updatedAt"
-"1","45","2.2","2.2","Voluptatem molestias aut dicta dolore quia.","2020-06-20 09:08:33",NULL
-"2","33","2.2","5.1","Atque iusto fugit ut quia minus.","2020-06-20 09:08:33",NULL
-"3","29","5.1","5.1","Perferendis quaerat est vel nihil facere vitae alias.","2020-06-20 09:08:33",NULL
-"4","44","5.1","5.1","Quasi incidunt magni cumque velit cupiditate tempora.","2020-06-20 09:08:33",NULL
-"5","3","2.2","2.3","Earum quaerat veniam eum iste quis ad dolore.","2020-06-20 09:08:33",NULL
-"6","16","5.1","5.1","Ut unde iste soluta et ratione reprehenderit commodi illo.","2020-06-20 09:08:33",NULL
-"7","26","5.1","5.1","Occaecati suscipit repudiandae natus qui eligendi voluptatem.","2020-06-20 09:08:33",NULL
-"8","20","2.3","2.3","Minus expedita aspernatur tenetur consequuntur possimus.","2020-06-20 09:08:33",NULL
-"9","22","2.2","5.1","Id eius est quis veniam necessitatibus ex aspernatur exercitationem.","2020-06-20 09:08:33",NULL
-"10","10","5.1","5.1","Quam optio at dolor deserunt esse nesciunt.","2020-06-20 09:08:33",NULL
-"11","14","2.2","5.1","Ab sapiente debitis laudantium.","2020-06-20 09:08:33",NULL
-"12","2","2.2","5.1","Quis sunt sint pariatur nemo.","2020-06-20 09:08:33",NULL
-"13","44","2.2","2.3","Omnis omnis harum omnis aut doloribus quae dolor.","2020-06-20 09:08:33",NULL
-"14","12","2.2","5.1","Quia officiis aliquid et doloribus eveniet.","2020-06-20 09:08:33",NULL
-"15","36","2.3","2.3","Nulla libero quo sunt recusandae consequatur excepturi veniam.","2020-06-20 09:08:33",NULL
-"16","2","5.1","5.1","Sed aut ad esse quas omnis assumenda adipisci.","2020-06-20 09:08:33",NULL
-"17","24","2.3","2.2","Facere delectus hic minima iure et magnam cum.","2020-06-20 09:08:33",NULL
-"18","43","5.1","2.3","Aut modi repellat omnis reprehenderit.","2020-06-20 09:08:33",NULL
-"19","31","5.1","5.1","Corporis unde ipsam omnis esse.","2020-06-20 09:08:33",NULL
-"20","19","5.1","2.2","Quaerat magni aperiam nesciunt optio.","2020-06-20 09:08:33",NULL
-"21","16","5.1","5.1","Porro ab sapiente aliquam repudiandae officiis sed.","2020-06-20 09:08:33",NULL
-"22","14","2.2","5.1","Sint molestiae repellat id labore.","2020-06-20 09:08:33",NULL
-"23","46","2.2","5.1","Blanditiis et ducimus culpa sit et at.","2020-06-20 09:08:34",NULL
-"24","6","2.2","5.1","Animi explicabo perferendis veniam ipsum sit.","2020-06-20 09:08:34",NULL
-"25","37","5.1","2.2","Consequatur illum nihil hic a quisquam ipsam.","2020-06-20 09:08:34",NULL
-"26","3","2.3","5.1","Repellat quasi ut itaque nobis voluptas.","2020-06-20 09:08:34",NULL
-"27","28","5.1","5.1","Nam ipsam dolorem quia aperiam.","2020-06-20 09:08:34",NULL
-"28","12","2.3","5.1","Reprehenderit explicabo sequi suscipit.","2020-06-20 09:08:34",NULL
-"29","5","2.3","5.1","Iste et et quos omnis soluta et voluptatem.","2020-06-20 09:08:34",NULL
-"30","25","2.2","5.1","Sed quia libero nihil aut.","2020-06-20 09:08:34",NULL
-"31","35","5.1","5.1","Est quasi dolor est est iste.","2020-06-20 09:08:34",NULL
-"32","17","5.1","5.1","Qui quis deleniti ut minus maxime.","2020-06-20 09:08:34",NULL
-"33","8","5.1","5.1","Possimus ut rerum ipsam nemo fuga a a.","2020-06-20 09:08:34",NULL
-"34","5","5.1","2.3","Quis animi qui voluptas consequuntur reprehenderit eum.","2020-06-20 09:08:34",NULL
-"35","49","5.1","2.3","Magnam fuga autem quas molestiae aut voluptatibus.","2020-06-20 09:08:34",NULL
-"36","44","5.1","2.2","Sint vel eos est nesciunt dicta velit voluptatum.","2020-06-20 09:08:34",NULL
-"37","2","2.3","5.1","Molestias neque aspernatur asperiores possimus hic voluptatem ipsum quia.","2020-06-20 09:08:34",NULL
-"38","36","2.3","2.2","Fugiat est alias quod doloremque et consequatur.","2020-06-20 09:08:34",NULL
-"39","21","2.3","5.1","Soluta reprehenderit id qui harum.","2020-06-20 09:08:34",NULL
-"40","44","2.2","5.1","Atque et vel unde perferendis ut.","2020-06-20 09:08:34",NULL
-"41","20","5.1","2.3","Recusandae delectus commodi qui maxime eligendi et nemo.","2020-06-20 09:08:34",NULL
-"42","16","5.1","2.3","Veritatis officiis nulla odio fugiat rerum est quam aut.","2020-06-20 09:08:34",NULL
-"43","29","5.1","5.1","Molestiae exercitationem tenetur ullam aut ratione velit qui.","2020-06-20 09:08:34",NULL
-"44","40","5.1","2.3","Eligendi voluptates nihil fuga facere rerum omnis.","2020-06-20 09:08:34",NULL
-"45","6","5.1","5.1","Velit fuga corrupti quia pariatur et quidem.","2020-06-20 09:08:34",NULL
-"46","28","5.1","2.2","Nostrum non tempora excepturi quo voluptatibus ullam id.","2020-06-20 09:08:34",NULL
-"47","2","5.1","5.1","Aut ea maiores optio aut vel soluta.","2020-06-20 09:08:34",NULL
-"48","30","5.1","2.3","Voluptatem quae temporibus quasi consequatur consequuntur.","2020-06-20 09:08:34",NULL
-"49","32","5.1","2.2","Eaque quos tempore veniam ratione quae.","2020-06-20 09:08:34",NULL
-"50","22","2.3","5.1","Et voluptas possimus et soluta eum.","2020-06-20 09:08:34",NULL
-"51","16","5.1","2.3","Ut iure ab sit animi.","2020-06-20 09:08:34",NULL
-"52","26","5.1","2.3","Placeat quaerat atque omnis veritatis qui doloribus veritatis.","2020-06-20 09:08:34",NULL
-"53","13","5.1","5.1","Necessitatibus amet odio praesentium nesciunt eius.","2020-06-20 09:08:34",NULL
-"54","25","5.1","5.1","Dolores occaecati illum minus enim.","2020-06-20 09:08:34",NULL
-"55","17","5.1","5.1","Tenetur mollitia libero mollitia inventore facilis.","2020-06-20 09:08:34",NULL
-"56","7","5.1","5.1","Voluptates in maiores dolor nostrum.","2020-06-20 09:08:35",NULL
-"57","42","2.3","2.2","Ea dolores minus et qui quia.","2020-06-20 09:08:35",NULL
-"58","49","2.3","5.1","Est autem dolorum et qui.","2020-06-20 09:08:35",NULL
-"59","10","5.1","5.1","Eum iusto ut voluptate natus.","2020-06-20 09:08:35",NULL
-"60","27","2.3","5.1","Qui autem ex quis harum qui.","2020-06-20 09:08:35",NULL
-"61","4","5.1","2.3","Qui voluptatem sint qui nobis similique explicabo.","2020-06-20 09:08:35",NULL
-"62","4","5.1","2.3","Dolor ut neque labore quas.","2020-06-20 09:08:35",NULL
-"63","38","5.1","5.1","Blanditiis sit omnis nulla enim aut maxime.","2020-06-20 09:08:35",NULL
-"64","31","5.1","5.1","Consequuntur quo aperiam sequi id voluptas est.","2020-06-20 09:08:35",NULL
-"65","47","5.1","5.1","Incidunt mollitia dignissimos quas saepe.","2020-06-20 09:08:35",NULL
-"66","37","2.2","5.1","Ipsum ipsam sunt accusamus consequatur nostrum fuga eos.","2020-06-20 09:08:35",NULL
-"67","20","5.1","5.1","Nihil excepturi corporis sapiente reiciendis quae nihil.","2020-06-20 09:08:35",NULL
-"68","43","2.3","2.3","Nisi magni praesentium a qui illo recusandae.","2020-06-20 09:08:35",NULL
-"69","4","2.3","2.2","Ut blanditiis tempora dolores voluptates explicabo eaque.","2020-06-20 09:08:35",NULL
-"70","24","2.3","2.3","Eum nesciunt ea corrupti vero.","2020-06-20 09:08:35",NULL
-"71","24","5.1","2.3","Repudiandae rerum alias quasi quia aut itaque.","2020-06-20 09:08:35",NULL
-"72","32","2.2","5.1","Quas laboriosam cumque voluptas incidunt ducimus magni.","2020-06-20 09:08:35",NULL
-"73","21","5.1","5.1","Blanditiis quaerat repellendus qui voluptate et assumenda.","2020-06-20 09:08:35",NULL
-"74","14","5.1","5.1","Similique nemo aut sint temporibus ea saepe.","2020-06-20 09:08:35",NULL
-"75","7","5.1","2.2","Necessitatibus et adipisci ut quibusdam.","2020-06-20 09:08:35",NULL
-"76","10","5.1","5.1","Magnam eos quaerat vitae ab.","2020-06-20 09:08:35",NULL
-"77","28","2.3","5.1","Et blanditiis sed labore magnam numquam.","2020-06-20 09:08:35",NULL
-"78","27","2.3","2.3","Et unde quis inventore voluptatum.","2020-06-20 09:08:35",NULL
-"79","46","5.1","5.1","Soluta deserunt corrupti voluptatum quia quas laborum cumque.","2020-06-20 09:08:35",NULL
-"80","40","2.2","5.1","Doloremque suscipit dolorem aliquid quae illo.","2020-06-20 09:08:35",NULL
-"81","15","5.1","2.2","Qui fuga et illo.","2020-06-20 09:08:35",NULL
-"82","3","5.1","5.1","Ipsa et facilis qui eum.","2020-06-20 09:08:35",NULL
-"83","2","2.2","5.1","Recusandae nostrum alias aut ea qui.","2020-06-20 09:08:35",NULL
-"84","18","5.1","2.2","Rerum harum est voluptates dolore ea.","2020-06-20 09:08:35",NULL
-"85","17","2.2","2.3","Minima eum ex nam autem dolor inventore.","2020-06-20 09:08:35",NULL
-"86","36","2.3","5.1","Quae ratione rem vel fugit.","2020-06-20 09:08:35",NULL
-"87","30","2.3","2.2","Deserunt corporis et dolores ipsa.","2020-06-20 09:08:35",NULL
-"88","10","5.1","2.2","Eum neque unde quas quidem consectetur molestiae.","2020-06-20 09:08:35",NULL
-"89","22","2.3","2.3","Autem quibusdam sapiente illo eveniet.","2020-06-20 09:08:35",NULL
-"90","6","2.2","5.1","Laboriosam quia eum qui quisquam laborum similique.","2020-06-20 09:08:35",NULL
-"91","4","2.3","5.1","Nemo tenetur velit velit qui minus.","2020-06-20 09:08:36",NULL
-"92","3","2.2","2.2","Occaecati sit odit accusamus.","2020-06-20 09:08:36",NULL
-"93","48","2.3","5.1","Qui aliquam est molestias odit.","2020-06-20 09:08:36",NULL
-"94","49","2.3","5.1","Occaecati deleniti omnis mollitia.","2020-06-20 09:08:36",NULL
-"95","26","5.1","2.2","Ea ipsa sunt veniam suscipit enim sunt ut.","2020-06-20 09:08:36",NULL
-"96","42","5.1","5.1","Maiores in quos dolores alias quidem itaque quibusdam unde.","2020-06-20 09:08:36",NULL
-"97","35","5.1","2.3","Ratione et porro et qui vel.","2020-06-20 09:08:36",NULL
-"98","42","2.2","5.1","Reiciendis illum doloremque alias sit.","2020-06-20 09:08:36",NULL
-"99","9","5.1","2.2","Ipsam exercitationem eligendi quia ut.","2020-06-20 09:08:36",NULL
-"100","48","2.2","5.1","Aut rerum aliquam est culpa.","2020-06-20 09:08:36",NULL
+"1","22","5.1","5.1","Ratione totam expedita perspiciatis.","2020-06-20 19:17:14",NULL
+"2","25","5.1","5.1","Aut vel repudiandae nisi in et vel eligendi ipsam.","2020-06-20 19:17:14",NULL
+"3","1","2.3","2.2","Qui cumque ea aut sit nemo.","2020-06-20 19:17:14",NULL
+"4","33","5.1","2.2","Impedit autem id optio officiis.","2020-06-20 19:17:14",NULL
+"5","41","2.3","5.1","Expedita velit eius quia nobis doloremque.","2020-06-20 19:17:14",NULL
+"6","45","2.2","2.3","Vel numquam modi voluptatibus impedit optio et a.","2020-06-20 19:17:14",NULL
+"7","37","2.3","5.1","Qui est architecto eos.","2020-06-20 19:17:14",NULL
+"8","15","2.3","2.3","Quia cupiditate odio et eos qui facilis.","2020-06-20 19:17:14",NULL
+"9","45","2.3","2.3","Numquam vitae ducimus pariatur placeat.","2020-06-20 19:17:14",NULL
+"10","24","2.3","5.1","Voluptatem aliquid autem corrupti vitae quia impedit.","2020-06-20 19:17:14",NULL
+"11","50","2.3","2.3","Eum alias delectus dolores tenetur.","2020-06-20 19:17:14",NULL
+"12","46","5.1","5.1","Sit non quia aut laborum et iure autem ea.","2020-06-20 19:17:14",NULL
+"13","49","5.1","2.2","Molestias sint qui blanditiis aut.","2020-06-20 19:17:14",NULL
+"14","10","5.1","2.3","Animi ducimus laudantium aliquid accusantium.","2020-06-20 19:17:14",NULL
+"15","46","2.2","5.1","Illum corrupti ad reiciendis minus qui.","2020-06-20 19:17:14",NULL
+"16","3","5.1","5.1","Doloribus culpa a et aperiam rerum nihil cupiditate.","2020-06-20 19:17:14",NULL
+"17","10","5.1","5.1","Adipisci et et ullam id.","2020-06-20 19:17:14",NULL
+"18","14","2.3","5.1","Neque vel placeat eaque est saepe voluptatem ea.","2020-06-20 19:17:14",NULL
+"19","41","2.3","5.1","Eos tenetur quia harum labore eaque sunt rerum.","2020-06-20 19:17:14",NULL
+"20","47","5.1","2.2","Quod laborum numquam provident ex nulla ea.","2020-06-20 19:17:14",NULL
+"21","8","5.1","5.1","Qui facere ut placeat tenetur qui rerum aspernatur.","2020-06-20 19:17:14",NULL
+"22","23","5.1","5.1","Recusandae ut ullam nulla autem.","2020-06-20 19:17:14",NULL
+"23","8","2.3","5.1","Fuga maxime eaque ut quidem doloribus rerum totam.","2020-06-20 19:17:14",NULL
+"24","17","5.1","2.2","In placeat ut tempora.","2020-06-20 19:17:14",NULL
+"25","32","5.1","5.1","Illo est excepturi accusantium nisi et voluptatem eos.","2020-06-20 19:17:14",NULL
+"26","27","5.1","2.3","Molestiae et voluptas perspiciatis pariatur recusandae assumenda non.","2020-06-20 19:17:14",NULL
+"27","1","2.3","2.3","Voluptatem quis eligendi earum nihil adipisci.","2020-06-20 19:17:14",NULL
+"28","29","2.2","2.3","Culpa eveniet quidem deserunt.","2020-06-20 19:17:14",NULL
+"29","36","2.2","2.3","Illum sed voluptatibus repellendus ex.","2020-06-20 19:17:14",NULL
+"30","13","5.1","2.3","Neque repellat odit eum excepturi architecto.","2020-06-20 19:17:14",NULL
+"31","5","2.3","5.1","Nam adipisci architecto et.","2020-06-20 19:17:14",NULL
+"32","7","2.2","2.3","Sit accusamus eaque porro.","2020-06-20 19:17:14",NULL
+"33","43","5.1","5.1","Voluptates nesciunt alias quia maxime sunt pariatur velit.","2020-06-20 19:17:14",NULL
+"34","23","5.1","2.2","Voluptatem blanditiis doloremque molestiae vero.","2020-06-20 19:17:14",NULL
+"35","5","5.1","5.1","Tempora nihil quas praesentium commodi.","2020-06-20 19:17:14",NULL
+"36","23","2.3","2.3","Dolor nam repellat quisquam voluptas.","2020-06-20 19:17:14",NULL
+"37","48","2.3","2.3","Neque et sed cumque qui.","2020-06-20 19:17:14",NULL
+"38","50","5.1","2.3","Rem quaerat est quis ducimus error voluptatem aliquam.","2020-06-20 19:17:14",NULL
+"39","11","2.2","2.2","In beatae alias dolorem architecto dolore odit.","2020-06-20 19:17:14",NULL
+"40","9","5.1","5.1","Voluptatem dicta facere dolores.","2020-06-20 19:17:14",NULL
+"41","10","2.2","2.2","Ab ducimus culpa excepturi magni numquam.","2020-06-20 19:17:15",NULL
+"42","30","5.1","5.1","Voluptatum quisquam ut quas qui.","2020-06-20 19:17:15",NULL
+"43","3","5.1","2.3","Voluptatum corporis quaerat quo voluptates omnis id voluptatem excepturi.","2020-06-20 19:17:15",NULL
+"44","23","5.1","5.1","Aliquam sapiente et et sequi dolore in.","2020-06-20 19:17:15",NULL
+"45","7","2.3","2.2","Repellat enim qui perferendis laudantium.","2020-06-20 19:17:15",NULL
+"46","4","5.1","2.3","Voluptate est ullam et atque.","2020-06-20 19:17:15",NULL
+"47","22","5.1","2.3","Autem consequuntur commodi placeat aut praesentium harum.","2020-06-20 19:17:15",NULL
+"48","19","5.1","5.1","Maxime officiis sapiente cum ducimus natus odit.","2020-06-20 19:17:15",NULL
+"49","38","5.1","2.3","Commodi illum quis est rem odit.","2020-06-20 19:17:15",NULL
+"50","49","2.2","2.2","Numquam quae explicabo quo saepe omnis nam vitae.","2020-06-20 19:17:15",NULL
+"51","38","5.1","2.3","At ullam quas dolores distinctio asperiores vel.","2020-06-20 19:17:15",NULL
+"52","6","5.1","2.2","Veniam accusamus in est sit quis saepe asperiores rerum.","2020-06-20 19:17:15",NULL
+"53","15","2.3","5.1","Quibusdam harum molestiae et neque.","2020-06-20 19:17:15",NULL
+"54","15","2.2","2.3","Quia qui illum eveniet debitis velit qui qui.","2020-06-20 19:17:15",NULL
+"55","4","5.1","5.1","Nisi eaque neque atque consectetur aut voluptatem sed molestias.","2020-06-20 19:17:15",NULL
+"56","33","2.2","2.3","Aliquam voluptates molestiae ut est dolores esse ut.","2020-06-20 19:17:15",NULL
+"57","50","2.3","5.1","Laudantium aliquid accusantium ipsum amet voluptatum et quia.","2020-06-20 19:17:15",NULL
+"58","21","5.1","2.2","Voluptatem eveniet sit consequatur numquam enim repellat illo.","2020-06-20 19:17:15",NULL
+"59","28","5.1","5.1","Maxime aperiam consequatur doloribus occaecati ut.","2020-06-20 19:17:15",NULL
+"60","50","2.2","2.2","Ipsum velit ea pariatur et sed pariatur.","2020-06-20 19:17:15",NULL
+"61","49","2.2","2.2","Eaque quod soluta eius.","2020-06-20 19:17:15",NULL
+"62","39","2.3","5.1","Tempora laboriosam aperiam ipsam in praesentium fugit saepe laborum.","2020-06-20 19:17:15",NULL
+"63","27","5.1","5.1","A recusandae impedit aperiam corporis illo libero est.","2020-06-20 19:17:15",NULL
+"64","22","2.3","5.1","Aut sed exercitationem nulla et et.","2020-06-20 19:17:15",NULL
+"65","40","2.2","2.3","Dolore id velit voluptate.","2020-06-20 19:17:15",NULL
+"66","41","5.1","2.3","Exercitationem atque a qui et rerum praesentium.","2020-06-20 19:17:15",NULL
+"67","48","5.1","2.3","Impedit molestiae temporibus tenetur beatae non.","2020-06-20 19:17:15",NULL
+"68","46","2.3","5.1","Ad hic eveniet sed enim qui culpa distinctio.","2020-06-20 19:17:15",NULL
+"69","46","5.1","2.2","Rerum quia non id aperiam sed saepe.","2020-06-20 19:17:15",NULL
+"70","21","2.3","5.1","Illo sed ex voluptatum odit aut ea.","2020-06-20 19:17:15",NULL
+"71","31","2.2","2.3","Architecto voluptatem dolor numquam minima voluptatum.","2020-06-20 19:17:15",NULL
+"72","15","2.3","5.1","Numquam enim adipisci dolorem minima velit.","2020-06-20 19:17:15",NULL
+"73","46","5.1","5.1","Qui ullam voluptatem voluptatem inventore.","2020-06-20 19:17:15",NULL
+"74","42","2.2","5.1","Non recusandae vitae omnis dolorum exercitationem inventore.","2020-06-20 19:17:15",NULL
+"75","28","5.1","2.3","Fugiat delectus iste ipsa rerum delectus consequatur laborum eveniet.","2020-06-20 19:17:15",NULL
+"76","28","5.1","5.1","Labore dolores et animi qui neque a ratione est.","2020-06-20 19:17:15",NULL
+"77","34","2.2","5.1","Harum quia a rerum nam error enim id.","2020-06-20 19:17:15",NULL
+"78","8","2.3","5.1","Non perspiciatis ea enim odit rem.","2020-06-20 19:17:15",NULL
+"79","47","5.1","2.2","Atque hic distinctio est distinctio tempora ipsum.","2020-06-20 19:17:15",NULL
+"80","32","5.1","2.2","Cum assumenda dolores consectetur suscipit molestiae odit.","2020-06-20 19:17:15",NULL
+"81","15","5.1","2.3","Veritatis beatae numquam dicta et.","2020-06-20 19:17:15",NULL
+"82","25","5.1","5.1","Qui est occaecati aut est ut accusamus.","2020-06-20 19:17:16",NULL
+"83","29","5.1","2.3","Sequi rerum reiciendis atque placeat autem.","2020-06-20 19:17:16",NULL
+"84","28","2.3","5.1","Eos praesentium nihil nostrum dolores.","2020-06-20 19:17:16",NULL
+"85","23","2.3","2.3","Repudiandae repellat magnam dolorem id.","2020-06-20 19:17:16",NULL
+"86","24","5.1","5.1","Amet minus ducimus maxime.","2020-06-20 19:17:16",NULL
+"87","31","5.1","2.2","Ducimus corporis quas perspiciatis et incidunt.","2020-06-20 19:17:16",NULL
+"88","28","5.1","5.1","Recusandae quas blanditiis et qui alias minima voluptates esse.","2020-06-20 19:17:16",NULL
+"89","8","2.3","2.3","Maxime dolorem ut ea est laudantium et ex.","2020-06-20 19:17:16",NULL
+"90","15","5.1","2.3","Nobis reprehenderit vero libero deserunt perspiciatis quae temporibus in.","2020-06-20 19:17:16",NULL
+"91","32","5.1","2.2","Accusantium ab nihil magni sit magni vel voluptas.","2020-06-20 19:17:16",NULL
+"92","18","2.3","2.2","Est accusantium natus vel.","2020-06-20 19:17:16",NULL
+"93","4","2.3","2.2","Qui eaque aliquam non quia at occaecati molestias consequuntur.","2020-06-20 19:17:16",NULL
+"94","29","5.1","5.1","Corporis aut ut odio magnam molestiae blanditiis.","2020-06-20 19:17:16",NULL
+"95","26","2.3","5.1","Et ex voluptatibus non voluptatem et fugit.","2020-06-20 19:17:16",NULL
+"96","16","5.1","2.2","Et aut quidem illo dolorem dolorem rerum.","2020-06-20 19:17:16",NULL
+"97","12","5.1","2.3","Ut et odio voluptate eligendi earum libero.","2020-06-20 19:17:16",NULL
+"98","9","5.1","5.1","Sequi minima repudiandae commodi alias fugiat voluptatem ab quisquam.","2020-06-20 19:17:16",NULL
+"99","34","2.3","2.2","Et totam nemo fugit sed autem.","2020-06-20 19:17:16",NULL
+"100","11","2.3","5.1","Eligendi placeat pariatur cupiditate et et ex neque modi.","2020-06-20 19:17:16",NULL
+"101","27","2.2","5.1","Est quia rerum autem optio eveniet hic distinctio.","2020-06-20 19:17:16",NULL
+"102","45","2.2","2.3","Quasi cumque id molestiae nostrum quia voluptatem vero.","2020-06-20 19:17:16",NULL
+"103","14","2.2","2.2","Architecto at aspernatur illum ullam assumenda voluptates.","2020-06-20 19:17:16",NULL
+"104","50","2.2","2.3","Quis ipsa ut ad dolor.","2020-06-20 19:17:16",NULL
+"105","3","5.1","2.3","Corporis dignissimos nesciunt consectetur dolore sunt eum.","2020-06-20 19:17:16",NULL
+"106","39","2.2","2.2","Sed eos quaerat sint et veritatis qui voluptatem.","2020-06-20 19:17:16",NULL
+"107","18","5.1","2.3","Qui illum quo omnis hic a perspiciatis.","2020-06-20 19:17:16",NULL
+"108","35","2.2","2.3","Deserunt velit delectus qui dolores.","2020-06-20 19:17:16",NULL
+"109","22","5.1","5.1","Sit necessitatibus impedit eius commodi necessitatibus tenetur cupiditate autem.","2020-06-20 19:17:16",NULL
+"110","25","5.1","5.1","Quasi incidunt vitae atque ut consequatur assumenda reprehenderit.","2020-06-20 19:17:16",NULL
+"111","19","5.1","2.2","Animi enim pariatur enim dolore explicabo.","2020-06-20 19:17:16",NULL
+"112","8","2.3","2.3","Accusantium dolorum et similique.","2020-06-20 19:17:16",NULL
+"113","42","5.1","2.2","Cumque amet nihil unde nam sit rerum non nostrum.","2020-06-20 19:17:16",NULL
+"114","7","5.1","2.2","Necessitatibus et dolores quae.","2020-06-20 19:17:16",NULL
+"115","10","5.1","2.3","Occaecati rerum esse consequatur voluptatibus sed dicta.","2020-06-20 19:17:16",NULL
+"116","33","5.1","2.3","Ut aut sit et.","2020-06-20 19:17:16",NULL
+"117","20","5.1","2.3","Animi expedita itaque eaque ut aliquam eligendi dolores.","2020-06-20 19:17:16",NULL
+"118","3","2.2","5.1","Quibusdam qui et sunt voluptas quibusdam mollitia nesciunt.","2020-06-20 19:17:16",NULL
+"119","23","2.2","2.2","Aut quos est sed.","2020-06-20 19:17:16",NULL
+"120","12","2.2","2.3","Unde fugiat alias qui enim similique non voluptate.","2020-06-20 19:17:16",NULL
+"121","33","2.3","2.3","Nisi voluptatem odit sed non reprehenderit et molestiae.","2020-06-20 19:17:16",NULL
+"122","16","2.3","5.1","Tempore provident libero praesentium et nihil cupiditate.","2020-06-20 19:17:16",NULL
+"123","28","5.1","2.3","Et odit repellendus officia et.","2020-06-20 19:17:16",NULL
+"124","13","5.1","5.1","Occaecati iusto et ea sint et.","2020-06-20 19:17:16",NULL
+"125","40","5.1","2.2","Rerum provident quas quae vitae consequuntur vel.","2020-06-20 19:17:17",NULL
+"126","14","2.2","5.1","Perferendis unde mollitia voluptas et.","2020-06-20 19:17:17",NULL
+"127","23","5.1","2.3","Ipsa accusamus odio dolor inventore consequatur doloremque vero.","2020-06-20 19:17:17",NULL
+"128","21","5.1","5.1","Nulla optio at harum doloribus nisi.","2020-06-20 19:17:17",NULL
+"129","32","2.2","2.3","Odio ea voluptatem ut sequi quisquam.","2020-06-20 19:17:17",NULL
+"130","37","5.1","2.2","Nulla quisquam dignissimos recusandae.","2020-06-20 19:17:17",NULL
+"131","17","2.2","5.1","Qui dolores voluptatum alias.","2020-06-20 19:17:17",NULL
+"132","6","2.2","5.1","Sunt quos at eos autem recusandae reprehenderit dolorem.","2020-06-20 19:17:17",NULL
+"133","4","5.1","2.2","Tenetur omnis id eos aut dolor necessitatibus.","2020-06-20 19:17:17",NULL
+"134","44","5.1","2.2","Enim sit sequi nihil nemo et et.","2020-06-20 19:17:17",NULL
+"135","39","2.3","2.3","Illo tenetur minima sed eos.","2020-06-20 19:17:17",NULL
+"136","12","2.2","5.1","Magnam atque possimus et corrupti.","2020-06-20 19:17:17",NULL
+"137","28","5.1","5.1","Veritatis a aut aut.","2020-06-20 19:17:17",NULL
+"138","44","2.2","2.3","Sed molestias facere molestiae nam qui et qui.","2020-06-20 19:17:17",NULL
+"139","39","2.2","5.1","Corporis et inventore libero velit.","2020-06-20 19:17:17",NULL
+"140","47","2.2","2.2","Soluta iste nemo quibusdam cumque molestiae amet impedit asperiores.","2020-06-20 19:17:17",NULL
+"141","6","5.1","5.1","Incidunt quae magni non dolor dolor.","2020-06-20 19:17:17",NULL
+"142","25","5.1","2.2","Qui voluptate nostrum odio laudantium.","2020-06-20 19:17:17",NULL
+"143","46","5.1","5.1","Qui libero fugiat accusantium quia libero ex.","2020-06-20 19:17:17",NULL
+"144","4","2.3","2.3","Omnis id id dolorem voluptates ea.","2020-06-20 19:17:17",NULL
+"145","42","5.1","5.1","Voluptas voluptatibus natus itaque doloribus dolorem odit iste est.","2020-06-20 19:17:17",NULL
+"146","18","5.1","5.1","Est atque exercitationem doloremque nesciunt fugiat at.","2020-06-20 19:17:17",NULL
+"147","24","5.1","2.2","Rem quam quod a cum commodi optio.","2020-06-20 19:17:17",NULL
+"148","25","2.2","5.1","Possimus maxime commodi dolor soluta debitis id.","2020-06-20 19:17:17",NULL
+"149","44","5.1","2.2","Nostrum nobis magnam tempore vel accusamus.","2020-06-20 19:17:17",NULL
+"150","27","5.1","5.1","Voluptates vel tempora laboriosam praesentium temporibus voluptatem.","2020-06-20 19:17:17",NULL
+"151","11","5.1","2.2","Aliquam quibusdam excepturi non.","2020-06-20 19:17:17",NULL
+"152","2","2.3","5.1","Neque quia aspernatur eum aliquid.","2020-06-20 19:17:17",NULL
+"153","14","5.1","5.1","Animi nihil velit suscipit facere explicabo exercitationem in libero.","2020-06-20 19:17:17",NULL
+"154","30","5.1","2.2","Voluptatem voluptatem aperiam sequi.","2020-06-20 19:17:17",NULL
+"155","9","5.1","2.2","Excepturi iure qui ex ducimus nisi.","2020-06-20 19:17:17",NULL
+"156","23","5.1","2.2","Cupiditate reiciendis at ut cum.","2020-06-20 19:17:17",NULL
+"157","32","2.3","5.1","Iusto totam consequatur ipsam.","2020-06-20 19:17:17",NULL
+"158","44","5.1","2.2","Occaecati eum laudantium commodi deserunt.","2020-06-20 19:17:17",NULL
+"159","1","5.1","5.1","Quia adipisci dolore vel ea molestiae molestias maiores.","2020-06-20 19:17:17",NULL
+"160","23","2.2","5.1","Quidem neque minima non exercitationem.","2020-06-20 19:17:17",NULL
+"161","30","5.1","5.1","Id quis repellat sunt dignissimos at et repudiandae.","2020-06-20 19:17:17",NULL
+"162","24","5.1","5.1","Suscipit necessitatibus consequatur modi excepturi et dolorum dolorem dolorem.","2020-06-20 19:17:17",NULL
+"163","21","5.1","5.1","Non cumque non inventore et eos voluptatum perspiciatis.","2020-06-20 19:17:17",NULL
+"164","14","2.2","2.2","Dolor veniam et sunt perspiciatis voluptas esse.","2020-06-20 19:17:17",NULL
+"165","14","5.1","2.3","Et labore veniam vel odit ea.","2020-06-20 19:17:18",NULL
+"166","31","5.1","2.2","Dolorum tempora dolores similique qui fuga.","2020-06-20 19:17:18",NULL
+"167","36","5.1","5.1","Enim molestiae provident non provident itaque eum voluptatem.","2020-06-20 19:17:18",NULL
+"168","37","5.1","2.3","Earum occaecati molestias quia et veritatis esse qui.","2020-06-20 19:17:18",NULL
+"169","47","2.2","2.3","Tempore sed nemo qui ad aspernatur modi.","2020-06-20 19:17:18",NULL
+"170","6","2.3","5.1","Ut asperiores consectetur aliquam commodi dolor debitis.","2020-06-20 19:17:18",NULL
+"171","12","2.2","5.1","Consequatur est facere amet ea libero et placeat.","2020-06-20 19:17:18",NULL
+"172","29","5.1","5.1","Nesciunt esse qui reprehenderit quis consequatur ut.","2020-06-20 19:17:18",NULL
+"173","43","2.3","2.2","A inventore ut voluptatum doloremque velit alias et.","2020-06-20 19:17:18",NULL
+"174","50","5.1","2.2","Velit enim facilis quia dolor ut quae dolor est.","2020-06-20 19:17:18",NULL
+"175","46","5.1","2.3","Est ut dignissimos nulla rerum illo quia vitae.","2020-06-20 19:17:18",NULL
+"176","29","5.1","2.2","Aliquam enim deleniti et ut quae nulla temporibus.","2020-06-20 19:17:18",NULL
+"177","49","2.3","5.1","Et consequuntur cum aut doloremque ut.","2020-06-20 19:17:18",NULL
+"178","36","5.1","2.3","Cum vel unde quasi voluptatem error eveniet ut.","2020-06-20 19:17:18",NULL
+"179","18","2.3","2.3","Nulla impedit accusamus omnis sint.","2020-06-20 19:17:18",NULL
+"180","42","2.2","5.1","Quis corrupti repellat voluptatem et.","2020-06-20 19:17:18",NULL
+"181","30","2.3","2.3","Est qui et non dolores.","2020-06-20 19:17:18",NULL
+"182","14","5.1","2.2","Velit veniam et omnis sequi in delectus aliquam.","2020-06-20 19:17:18",NULL
+"183","50","2.3","5.1","Quo nulla accusantium nemo cum.","2020-06-20 19:17:18",NULL
+"184","41","2.2","2.2","Sequi reprehenderit dolor reiciendis facilis nesciunt.","2020-06-20 19:17:18",NULL
+"185","27","5.1","2.2","Aut dolores distinctio est non eos dolorum vitae hic.","2020-06-20 19:17:18",NULL
+"186","5","5.1","2.3","Voluptas distinctio voluptatem exercitationem et.","2020-06-20 19:17:18",NULL
+"187","39","5.1","2.2","Labore dignissimos dolores voluptatibus sunt magni natus.","2020-06-20 19:17:18",NULL
+"188","43","5.1","2.2","Delectus illo perspiciatis totam hic.","2020-06-20 19:17:18",NULL
+"189","8","5.1","5.1","Et est iure ipsa doloremque.","2020-06-20 19:17:18",NULL
+"190","11","5.1","5.1","Consequatur facilis dignissimos soluta a quia.","2020-06-20 19:17:18",NULL
+"191","17","2.2","2.2","Harum optio omnis est.","2020-06-20 19:17:18",NULL
+"192","15","2.2","5.1","Id eveniet aut dolor nobis.","2020-06-20 19:17:18",NULL
+"193","31","5.1","5.1","Minus nulla at aut excepturi assumenda ab quasi.","2020-06-20 19:17:18",NULL
+"194","34","5.1","5.1","Corrupti occaecati id praesentium vel fuga magni et.","2020-06-20 19:17:18",NULL
+"195","26","5.1","2.2","Eligendi consequatur esse dolor quia atque dolorem explicabo.","2020-06-20 19:17:18",NULL
+"196","38","5.1","2.2","Illo et asperiores et cupiditate id laborum.","2020-06-20 19:17:18",NULL
+"197","22","5.1","5.1","Eos nihil dolorem officia.","2020-06-20 19:17:18",NULL
+"198","20","5.1","5.1","Dolor suscipit et quae tenetur.","2020-06-20 19:17:18",NULL
+"199","38","5.1","2.2","Voluptatem ut quis nesciunt voluptatem beatae.","2020-06-20 19:17:18",NULL
+"200","25","2.2","5.1","Cupiditate dolores nostrum odio.","2020-06-20 19:17:18",NULL
+"201","43","2.2","2.2","Eum in doloremque numquam consequatur.","2020-06-20 19:17:18",NULL
+"202","9","5.1","5.1","Placeat labore sed ut dolores voluptatem.","2020-06-20 19:17:18",NULL
+"203","29","5.1","5.1","Enim quaerat consequatur vel vel adipisci.","2020-06-20 19:17:18",NULL
+"204","21","2.2","2.2","Similique minus et earum beatae amet ab.","2020-06-20 19:17:18",NULL
+"205","41","5.1","2.2","Voluptatem quasi dolore voluptatem ut blanditiis necessitatibus.","2020-06-20 19:17:18",NULL
+"206","4","2.2","2.3","Ut voluptas corrupti repellat distinctio voluptas labore nulla.","2020-06-20 19:17:18",NULL
+"207","12","5.1","2.2","Non et libero amet ut consequatur et.","2020-06-20 19:17:18",NULL
+"208","40","2.2","5.1","Assumenda est veniam voluptate mollitia molestias quasi dolor autem.","2020-06-20 19:17:18",NULL
+"209","7","5.1","5.1","Sit dignissimos dolorum odit id nihil maiores.","2020-06-20 19:17:18",NULL
+"210","29","5.1","5.1","Molestiae officia dolorem illo nulla id deserunt in alias.","2020-06-20 19:17:18",NULL
+"211","16","5.1","2.2","Suscipit culpa doloremque ducimus cumque et asperiores soluta.","2020-06-20 19:17:19",NULL
+"212","28","5.1","5.1","Suscipit modi porro maxime minima.","2020-06-20 19:17:19",NULL
+"213","21","2.3","2.3","Ea autem perferendis quod quis.","2020-06-20 19:17:19",NULL
+"214","19","2.2","5.1","Vitae quibusdam dolor nulla doloremque.","2020-06-20 19:17:19",NULL
+"215","39","2.2","5.1","Commodi voluptatem maiores vero magni repellendus aut accusamus.","2020-06-20 19:17:19",NULL
+"216","12","5.1","5.1","Repudiandae reprehenderit beatae modi qui quia nostrum.","2020-06-20 19:17:19",NULL
+"217","23","2.2","5.1","Atque explicabo voluptates omnis ut maiores sed.","2020-06-20 19:17:19",NULL
+"218","48","5.1","2.3","Aspernatur nesciunt sunt minus eligendi qui.","2020-06-20 19:17:19",NULL
+"219","46","5.1","2.3","Asperiores enim vitae tempora rerum.","2020-06-20 19:17:19",NULL
+"220","48","5.1","5.1","Consectetur quis odit impedit tempora.","2020-06-20 19:17:19",NULL
+"221","7","2.2","5.1","Aut voluptatem porro et et.","2020-06-20 19:17:19",NULL
+"222","14","2.2","5.1","Sint dolorum temporibus ea molestiae.","2020-06-20 19:17:19",NULL
+"223","26","2.3","2.3","Neque ea eum molestiae voluptatum accusantium eligendi repudiandae.","2020-06-20 19:17:19",NULL
+"224","31","2.3","5.1","Est voluptas aliquam blanditiis animi.","2020-06-20 19:17:19",NULL
+"225","23","5.1","2.2","Et aut rerum earum repudiandae dolorem quia.","2020-06-20 19:17:19",NULL
+"226","17","2.2","5.1","Totam praesentium quia quam minima quo.","2020-06-20 19:17:19",NULL
+"227","9","5.1","2.2","Velit et aperiam velit eos quaerat repellat.","2020-06-20 19:17:19",NULL
+"228","22","5.1","2.2","Iure magnam occaecati quis et.","2020-06-20 19:17:19",NULL
+"229","25","5.1","5.1","Sapiente est adipisci blanditiis qui maxime.","2020-06-20 19:17:19",NULL
+"230","10","5.1","5.1","Laboriosam tempore reiciendis quis iusto illum sint nobis quos.","2020-06-20 19:17:19",NULL
+"231","19","2.2","5.1","Blanditiis molestiae explicabo omnis.","2020-06-20 19:17:19",NULL
+"232","16","2.2","2.2","Similique fuga harum ab veritatis labore accusantium et.","2020-06-20 19:17:19",NULL
+"233","48","5.1","2.2","Et amet a ipsa ut qui maiores.","2020-06-20 19:17:19",NULL
+"234","49","5.1","5.1","A pariatur suscipit nihil ducimus nesciunt in neque atque.","2020-06-20 19:17:19",NULL
+"235","20","5.1","2.2","Labore quo praesentium enim similique.","2020-06-20 19:17:19",NULL
+"236","13","5.1","2.3","Quia ab quia et assumenda aliquid voluptatum maiores.","2020-06-20 19:17:19",NULL
+"237","7","5.1","2.3","Voluptatem natus qui minima quod voluptatem error.","2020-06-20 19:17:19",NULL
+"238","47","5.1","5.1","Iusto est in qui veritatis sit.","2020-06-20 19:17:19",NULL
+"239","21","5.1","5.1","Autem asperiores possimus ut quia.","2020-06-20 19:17:19",NULL
+"240","50","2.3","5.1","Consequatur repellat quia sint cumque soluta quos.","2020-06-20 19:17:19",NULL
+"241","45","2.2","2.2","Eos enim repudiandae quidem optio autem facere omnis.","2020-06-20 19:17:19",NULL
+"242","3","5.1","5.1","Ut doloremque eveniet temporibus voluptate.","2020-06-20 19:17:19",NULL
+"243","3","5.1","5.1","Tempore atque itaque est in totam voluptatem modi.","2020-06-20 19:17:19",NULL
+"244","20","5.1","2.2","Ipsam provident quod incidunt quia libero debitis aspernatur.","2020-06-20 19:17:19",NULL
+"245","33","5.1","5.1","Pariatur mollitia atque voluptatem assumenda.","2020-06-20 19:17:19",NULL
+"246","39","2.3","5.1","Quis facere harum consectetur non omnis molestiae facilis temporibus.","2020-06-20 19:17:19",NULL
+"247","10","2.2","5.1","Sit in in velit et dolores.","2020-06-20 19:17:19",NULL
+"248","6","5.1","5.1","Dolores nemo ullam excepturi voluptatem recusandae neque.","2020-06-20 19:17:19",NULL
+"249","9","5.1","5.1","Eum rerum suscipit enim sed quo recusandae.","2020-06-20 19:17:19",NULL
+"250","33","2.3","5.1","Aut ut voluptatibus vel tempora voluptas voluptatem et.","2020-06-20 19:17:19",NULL
+"251","12","5.1","5.1","Aut ex quo autem veniam consequatur repellendus vitae.","2020-06-20 19:17:19",NULL
+"252","16","2.2","5.1","Dolor consequuntur ad nobis.","2020-06-20 19:17:20",NULL
+"253","36","5.1","2.3","Sunt aut laudantium beatae ipsa consequatur temporibus.","2020-06-20 19:17:20",NULL
+"254","11","5.1","5.1","Nihil at doloribus et sed in.","2020-06-20 19:17:20",NULL
+"255","10","5.1","2.3","Quia fugit dolores voluptatem ut distinctio iste odio.","2020-06-20 19:17:20",NULL
+"256","23","5.1","5.1","Sed ut vitae id voluptate illo inventore eligendi.","2020-06-20 19:17:20",NULL
+"257","5","2.2","2.2","Cupiditate incidunt sint neque est excepturi ullam ipsa qui.","2020-06-20 19:17:20",NULL
+"258","17","5.1","5.1","Tempore dolor odio nam ducimus.","2020-06-20 19:17:20",NULL
+"259","41","2.3","2.2","Nihil accusantium explicabo in eos.","2020-06-20 19:17:20",NULL
+"260","41","5.1","5.1","Ad doloribus est voluptatem molestias omnis amet labore.","2020-06-20 19:17:20",NULL
+"261","35","2.2","2.3","Dolorum labore qui molestiae accusamus.","2020-06-20 19:17:20",NULL
+"262","3","2.2","5.1","Enim ut eius rerum id et.","2020-06-20 19:17:20",NULL
+"263","11","5.1","5.1","Consequuntur sed quis delectus harum quasi.","2020-06-20 19:17:20",NULL
+"264","5","2.3","2.2","Ea reiciendis velit necessitatibus vel vero.","2020-06-20 19:17:20",NULL
+"265","13","5.1","2.2","Incidunt qui ipsa aliquid quia sint eius.","2020-06-20 19:17:20",NULL
+"266","46","2.3","2.3","Odio enim temporibus quod provident provident.","2020-06-20 19:17:20",NULL
+"267","39","5.1","2.2","Et sint maxime consequuntur velit.","2020-06-20 19:17:20",NULL
+"268","3","5.1","2.3","Et maiores ex numquam enim nihil ipsa.","2020-06-20 19:17:20",NULL
+"269","26","5.1","2.3","Laboriosam voluptatum aspernatur non nobis ut ut illum.","2020-06-20 19:17:20",NULL
+"270","23","5.1","2.2","Sequi non ea qui et.","2020-06-20 19:17:20",NULL
+"271","38","2.2","5.1","Aut aliquam impedit sed et non recusandae fuga.","2020-06-20 19:17:20",NULL
+"272","19","5.1","2.2","A quo dolorem sed expedita mollitia earum.","2020-06-20 19:17:20",NULL
+"273","36","5.1","2.2","Explicabo cumque necessitatibus voluptas nihil vero asperiores quos.","2020-06-20 19:17:20",NULL
+"274","14","5.1","5.1","Aspernatur voluptatum nisi odit.","2020-06-20 19:17:20",NULL
+"275","15","5.1","2.2","Necessitatibus ullam dolore odit sunt.","2020-06-20 19:17:20",NULL
+"276","6","2.3","2.3","Excepturi maxime et dolore odio est.","2020-06-20 19:17:20",NULL
+"277","49","5.1","2.3","Temporibus sapiente officia officiis in excepturi ea excepturi.","2020-06-20 19:17:20",NULL
+"278","6","2.2","5.1","Perspiciatis qui odit eos.","2020-06-20 19:17:20",NULL
+"279","14","2.2","5.1","Repellendus consequuntur perferendis enim voluptas vero cumque.","2020-06-20 19:17:20",NULL
+"280","6","5.1","2.3","Expedita maxime sunt repellat minima qui consequatur.","2020-06-20 19:17:20",NULL
+"281","4","5.1","5.1","Ut nisi voluptas eum magni.","2020-06-20 19:17:20",NULL
+"282","28","2.2","2.2","Rerum distinctio alias natus sunt nihil.","2020-06-20 19:17:20",NULL
+"283","33","2.2","2.3","Vel quia nihil voluptatem tempore eaque.","2020-06-20 19:17:20",NULL
+"284","26","2.3","5.1","Necessitatibus quae assumenda esse aut earum.","2020-06-20 19:17:20",NULL
+"285","39","2.2","2.3","Ipsam impedit doloribus nisi odit.","2020-06-20 19:17:20",NULL
+"286","25","2.3","2.3","Distinctio quia quos atque rerum qui in.","2020-06-20 19:17:20",NULL
+"287","27","5.1","5.1","Veritatis aut facilis laborum nihil est.","2020-06-20 19:17:20",NULL
+"288","33","5.1","5.1","Blanditiis rem alias laudantium cumque.","2020-06-20 19:17:20",NULL
+"289","37","2.3","5.1","Aliquam in iusto expedita fugit corrupti.","2020-06-20 19:17:20",NULL
+"290","40","2.2","5.1","Non aut dolor excepturi aspernatur sapiente.","2020-06-20 19:17:20",NULL
+"291","14","5.1","5.1","Dolorem reprehenderit quas est odit culpa quia at sed.","2020-06-20 19:17:20",NULL
+"292","10","2.2","2.2","Magnam impedit quasi voluptatum alias ut.","2020-06-20 19:17:20",NULL
+"293","24","5.1","2.3","Odit quo itaque dolorem blanditiis rem.","2020-06-20 19:17:21",NULL
+"294","23","5.1","5.1","Vitae qui in quisquam consectetur.","2020-06-20 19:17:21",NULL
+"295","29","2.3","2.2","In autem est a labore praesentium.","2020-06-20 19:17:21",NULL
+"296","23","2.3","2.3","Aliquid soluta quia architecto dolor sunt fugit.","2020-06-20 19:17:21",NULL
+"297","43","2.2","5.1","Voluptatibus quod quos qui ratione consequatur dolores sunt.","2020-06-20 19:17:21",NULL
+"298","27","2.2","5.1","Quam sit aliquam distinctio incidunt porro.","2020-06-20 19:17:21",NULL
+"299","44","2.2","2.3","Minima quam nulla non ut et cupiditate.","2020-06-20 19:17:21",NULL
+"300","40","5.1","2.3","Recusandae occaecati qui error dolores aut.","2020-06-20 19:17:21",NULL
+"301","17","5.1","5.1","Dolores nostrum voluptates numquam optio.","2020-06-20 19:17:21",NULL
+"302","13","2.3","2.3","Accusantium qui doloribus culpa quod sit ut.","2020-06-20 19:17:21",NULL
+"303","32","5.1","2.2","Doloremque rerum rem explicabo fugit recusandae.","2020-06-20 19:17:21",NULL
+"304","5","5.1","2.3","Omnis qui quod necessitatibus officiis iusto eveniet.","2020-06-20 19:17:21",NULL
+"305","49","2.3","2.3","Voluptas et rerum qui numquam itaque.","2020-06-20 19:17:21",NULL
+"306","46","2.2","2.2","Et culpa aliquam quo veniam qui.","2020-06-20 19:17:21",NULL
+"307","31","2.3","2.3","Enim dolorem dignissimos non omnis et ad beatae repellendus.","2020-06-20 19:17:21",NULL
+"308","8","5.1","5.1","Dignissimos sunt veritatis beatae quia.","2020-06-20 19:17:21",NULL
+"309","29","2.2","2.2","Nam vero commodi aut qui libero qui dolorem.","2020-06-20 19:17:21",NULL
+"310","9","2.3","5.1","Molestiae fugit et sit qui.","2020-06-20 19:17:21",NULL
+"311","28","2.2","5.1","Repellat in consequatur sed ut rerum eum enim.","2020-06-20 19:17:21",NULL
+"312","34","5.1","5.1","Accusantium omnis et temporibus quaerat in sit voluptatibus dolor.","2020-06-20 19:17:21",NULL
+"313","38","5.1","5.1","Consequatur quos sed numquam dicta ad qui.","2020-06-20 19:17:21",NULL
+"314","50","2.3","5.1","Assumenda quibusdam est qui doloribus recusandae vel.","2020-06-20 19:17:21",NULL
+"315","44","5.1","5.1","Ipsa error quia ipsa ipsum voluptate quasi voluptatem.","2020-06-20 19:17:21",NULL
+"316","13","2.2","2.2","Reiciendis doloremque id eos est itaque quia.","2020-06-20 19:17:21",NULL
+"317","32","2.3","5.1","Error ipsa similique velit quis.","2020-06-20 19:17:21",NULL
+"318","20","2.2","2.3","Ipsam excepturi autem architecto dolores expedita.","2020-06-20 19:17:21",NULL
+"319","14","5.1","2.3","Totam est et ea aut cupiditate odit.","2020-06-20 19:17:21",NULL
+"320","43","2.3","5.1","Nihil asperiores autem ipsam illum.","2020-06-20 19:17:21",NULL
+"321","27","5.1","5.1","Consequuntur quae esse et consequatur voluptas.","2020-06-20 19:17:21",NULL
+"322","5","5.1","5.1","Et dolorem quisquam minima minima.","2020-06-20 19:17:21",NULL
+"323","35","5.1","2.2","Laboriosam ea est quo pariatur est id nihil.","2020-06-20 19:17:21",NULL
+"324","37","5.1","5.1","Illo eos sed ex molestiae inventore.","2020-06-20 19:17:21",NULL
+"325","47","2.3","2.3","Provident voluptas et est eos veniam est quo et.","2020-06-20 19:17:21",NULL
+"326","9","2.3","2.2","Ab nihil tenetur deleniti aut eum.","2020-06-20 19:17:21",NULL
+"327","6","5.1","5.1","Fugiat soluta odit nam modi.","2020-06-20 19:17:21",NULL
+"328","27","2.3","5.1","Sint nihil sunt sit.","2020-06-20 19:17:21",NULL
+"329","28","2.3","2.3","Nulla officia similique sed vel assumenda neque est et.","2020-06-20 19:17:21",NULL
+"330","40","5.1","5.1","Molestiae autem provident ea.","2020-06-20 19:17:21",NULL
+"331","37","2.2","2.3","Quidem possimus voluptas at hic aperiam.","2020-06-20 19:17:21",NULL
+"332","33","5.1","5.1","Saepe harum eum ipsam.","2020-06-20 19:17:21",NULL
+"333","25","2.3","5.1","Temporibus sequi natus ut error.","2020-06-20 19:17:21",NULL
+"334","13","2.3","5.1","Voluptatum amet minima nesciunt sint quo aut.","2020-06-20 19:17:22",NULL
+"335","26","5.1","5.1","Accusamus iure occaecati reprehenderit autem.","2020-06-20 19:17:22",NULL
+"336","8","5.1","5.1","Excepturi architecto mollitia repudiandae eum saepe aperiam.","2020-06-20 19:17:22",NULL
+"337","10","5.1","5.1","Vero earum consequatur et doloribus non excepturi aperiam.","2020-06-20 19:17:22",NULL
+"338","35","5.1","5.1","Omnis tempore dolorem necessitatibus eos et.","2020-06-20 19:17:22",NULL
+"339","5","2.2","2.2","Pariatur culpa accusantium et consequatur officiis aperiam.","2020-06-20 19:17:22",NULL
+"340","2","2.3","5.1","Suscipit ipsam vitae eum eum dignissimos.","2020-06-20 19:17:22",NULL
+"341","35","2.2","2.2","Eos dolor quibusdam minima excepturi sequi sapiente.","2020-06-20 19:17:22",NULL
+"342","34","5.1","2.3","Eveniet deleniti non atque assumenda voluptas.","2020-06-20 19:17:22",NULL
+"343","34","5.1","2.3","Et qui molestias nesciunt tenetur laboriosam rerum doloribus.","2020-06-20 19:17:22",NULL
+"344","49","5.1","5.1","Dolorum animi magnam earum omnis doloribus.","2020-06-20 19:17:22",NULL
+"345","48","2.2","5.1","Ut sit exercitationem incidunt qui saepe excepturi.","2020-06-20 19:17:22",NULL
+"346","25","5.1","5.1","Recusandae placeat est aspernatur dignissimos.","2020-06-20 19:17:22",NULL
+"347","20","5.1","2.3","Officiis veritatis pariatur quia est delectus.","2020-06-20 19:17:22",NULL
+"348","17","5.1","5.1","Perferendis minima exercitationem nobis aut ipsam fugit.","2020-06-20 19:17:22",NULL
+"349","44","2.2","2.2","Aspernatur qui est nemo deleniti.","2020-06-20 19:17:22",NULL
+"350","26","2.2","2.3","Et sapiente reiciendis delectus voluptates et vero.","2020-06-20 19:17:22",NULL
+"351","24","2.3","2.3","Rerum et labore ipsum voluptatibus et expedita repellat.","2020-06-20 19:17:22",NULL
+"352","18","5.1","2.3","Maiores repellendus omnis ducimus voluptas itaque.","2020-06-20 19:17:22",NULL
+"353","38","2.2","2.2","Accusamus aliquid iste animi enim quam ex et quisquam.","2020-06-20 19:17:22",NULL
+"354","38","5.1","2.2","Labore odit perspiciatis deserunt laboriosam velit illo.","2020-06-20 19:17:22",NULL
+"355","29","5.1","2.2","Officiis molestiae sit ipsum sed.","2020-06-20 19:17:22",NULL
+"356","17","2.2","5.1","Quia omnis alias sed sint praesentium.","2020-06-20 19:17:22",NULL
+"357","48","5.1","5.1","Aut qui velit a incidunt tempora nulla.","2020-06-20 19:17:22",NULL
+"358","44","2.3","2.2","Debitis modi voluptatum laborum aut officia nobis.","2020-06-20 19:17:22",NULL
+"359","1","2.3","2.3","Voluptas rerum cum a eos doloribus voluptatem.","2020-06-20 19:17:22",NULL
+"360","12","5.1","5.1","Ut culpa dolor omnis qui.","2020-06-20 19:17:22",NULL
+"361","26","5.1","5.1","Quam ab et dignissimos.","2020-06-20 19:17:22",NULL
+"362","39","2.3","2.2","Et dolore accusamus dolore modi sunt et velit.","2020-06-20 19:17:22",NULL
+"363","4","2.3","2.2","Ab non rem nam delectus dicta eos rerum.","2020-06-20 19:17:22",NULL
+"364","10","2.2","5.1","Quo nostrum reiciendis eos nihil eius sunt sit.","2020-06-20 19:17:22",NULL
+"365","35","2.2","5.1","Qui perspiciatis delectus id.","2020-06-20 19:17:22",NULL
+"366","32","2.2","5.1","Veritatis ut amet error architecto sapiente.","2020-06-20 19:17:22",NULL
+"367","26","2.2","2.2","Cupiditate omnis nam modi est sed consequatur incidunt.","2020-06-20 19:17:22",NULL
+"368","25","2.2","2.2","Aut impedit perspiciatis quam facere debitis illo.","2020-06-20 19:17:22",NULL
+"369","1","5.1","2.3","Ut hic est delectus ipsam fuga est.","2020-06-20 19:17:22",NULL
+"370","39","5.1","2.3","Cum sed praesentium tempore facilis quis quidem laboriosam.","2020-06-20 19:17:22",NULL
+"371","33","2.3","5.1","Eligendi eum quo ex sit porro.","2020-06-20 19:17:22",NULL
+"372","12","2.2","2.2","Laborum excepturi et ullam recusandae perferendis incidunt.","2020-06-20 19:17:22",NULL
+"373","23","2.3","5.1","Ut delectus nisi ut corrupti molestiae aut.","2020-06-20 19:17:22",NULL
+"374","1","2.3","5.1","Hic et qui odit aliquid voluptate.","2020-06-20 19:17:23",NULL
+"375","10","5.1","2.2","Vel est qui ut veritatis voluptas incidunt sequi qui.","2020-06-20 19:17:23",NULL
+"376","49","5.1","2.3","Ut rerum fugiat repellat enim.","2020-06-20 19:17:23",NULL
+"377","5","2.2","2.2","Et quaerat nihil ipsam quis commodi.","2020-06-20 19:17:23",NULL
+"378","42","2.2","5.1","Nihil repudiandae nostrum iusto cum aut voluptatem voluptatum aut.","2020-06-20 19:17:23",NULL
+"379","5","5.1","5.1","Minus repellat voluptates nesciunt et.","2020-06-20 19:17:23",NULL
+"380","44","5.1","5.1","Perspiciatis veniam commodi ratione.","2020-06-20 19:17:23",NULL
+"381","1","5.1","2.3","Quis quia eos culpa dolorum rem dolorem facere.","2020-06-20 19:17:23",NULL
+"382","17","2.2","5.1","Aut quo ea placeat dolores neque.","2020-06-20 19:17:23",NULL
+"383","33","5.1","5.1","Perspiciatis optio molestiae ut quaerat quia sunt eligendi.","2020-06-20 19:17:23",NULL
+"384","50","2.3","5.1","Reiciendis earum eaque laboriosam voluptatem explicabo nulla modi sequi.","2020-06-20 19:17:23",NULL
+"385","10","2.2","2.2","Unde animi incidunt assumenda quidem non est sunt.","2020-06-20 19:17:23",NULL
+"386","22","2.2","2.2","Voluptas ea laboriosam iusto earum a fugiat.","2020-06-20 19:17:23",NULL
+"387","24","2.3","5.1","Voluptatem eveniet natus debitis saepe labore.","2020-06-20 19:17:23",NULL
+"388","38","2.2","5.1","Minima ut nam dolorum ea.","2020-06-20 19:17:23",NULL
+"389","41","5.1","2.3","Iste quos vel voluptatem eligendi harum laborum et aperiam.","2020-06-20 19:17:23",NULL
+"390","35","2.3","5.1","Rem facere placeat mollitia.","2020-06-20 19:17:23",NULL
+"391","29","2.2","2.3","Placeat libero fugit distinctio rerum qui voluptas.","2020-06-20 19:17:23",NULL
+"392","48","5.1","5.1","Perspiciatis in cupiditate qui animi exercitationem quibusdam explicabo.","2020-06-20 19:17:23",NULL
+"393","29","2.3","2.3","Beatae placeat neque reiciendis placeat.","2020-06-20 19:17:23",NULL
+"394","32","5.1","2.3","Illo quae soluta provident sit.","2020-06-20 19:17:23",NULL
+"395","17","5.1","2.2","Non enim sunt ab fuga ipsam cupiditate.","2020-06-20 19:17:23",NULL
+"396","26","5.1","5.1","Non non dolor occaecati rem sed.","2020-06-20 19:17:23",NULL
+"397","29","2.3","5.1","Repellat et quaerat saepe asperiores.","2020-06-20 19:17:23",NULL
+"398","30","5.1","5.1","Rerum et iure nostrum.","2020-06-20 19:17:23",NULL
+"399","6","2.2","5.1","Ab explicabo quas molestiae accusamus.","2020-06-20 19:17:23",NULL
+"400","46","2.3","5.1","Alias consequuntur nulla molestias dolor qui.","2020-06-20 19:17:23",NULL
+"401","19","2.3","5.1","Recusandae aut pariatur dolorem neque in fuga.","2020-06-20 19:17:23",NULL
+"402","33","2.2","2.3","Asperiores consequatur et natus aut voluptatem voluptatem laborum ratione.","2020-06-20 19:17:23",NULL
+"403","30","2.2","5.1","Repellat iure facilis aperiam amet inventore quaerat aut vitae.","2020-06-20 19:17:23",NULL
+"404","24","2.3","5.1","Molestias quod sed quos culpa.","2020-06-20 19:17:23",NULL
+"405","31","5.1","2.2","Consequuntur a consequatur nisi repellendus dolores qui.","2020-06-20 19:17:23",NULL
+"406","3","2.3","5.1","Vitae dolor laboriosam aut quo numquam numquam tempora.","2020-06-20 19:17:23",NULL
+"407","40","2.3","5.1","Dolor numquam dolor reiciendis minus alias quia ipsa unde.","2020-06-20 19:17:23",NULL
+"408","22","5.1","2.3","Ipsam ut dolor voluptas ipsum.","2020-06-20 19:17:23",NULL
+"409","38","2.3","2.2","Animi molestiae labore tenetur.","2020-06-20 19:17:23",NULL
+"410","33","2.3","2.2","Minima architecto quos id sapiente.","2020-06-20 19:17:23",NULL
+"411","30","5.1","2.3","Nihil dolor voluptatem praesentium asperiores.","2020-06-20 19:17:23",NULL
+"412","2","5.1","2.3","Est accusamus quis dolorum in esse magni consequatur aperiam.","2020-06-20 19:17:23",NULL
+"413","26","5.1","2.3","Beatae incidunt est et excepturi laborum asperiores amet.","2020-06-20 19:17:24",NULL
+"414","7","5.1","5.1","Rem reprehenderit magni aut minus dolor.","2020-06-20 19:17:24",NULL
+"415","50","2.3","2.2","Dolor fugit odio iure eaque nihil.","2020-06-20 19:17:24",NULL
+"416","3","2.2","5.1","Ut voluptatibus ut ea id consequatur dolor quia aut.","2020-06-20 19:17:24",NULL
+"417","44","2.3","2.3","Aut libero delectus eaque facere quibusdam repellat dolor nemo.","2020-06-20 19:17:24",NULL
+"418","42","2.2","5.1","Tempora et quas est tenetur aliquid rem necessitatibus.","2020-06-20 19:17:24",NULL
+"419","43","5.1","5.1","Esse quis unde soluta modi ratione deserunt quia.","2020-06-20 19:17:24",NULL
+"420","50","5.1","5.1","Quis quaerat quis ratione quasi vel iure libero.","2020-06-20 19:17:24",NULL
+"421","20","2.3","5.1","Alias dolorum occaecati et aut aut.","2020-06-20 19:17:24",NULL
+"422","7","2.2","5.1","Omnis quod voluptatem reiciendis.","2020-06-20 19:17:24",NULL
+"423","6","5.1","5.1","Debitis sunt quia temporibus nulla odio ducimus doloremque.","2020-06-20 19:17:24",NULL
+"424","33","5.1","5.1","Perspiciatis asperiores corrupti ea nesciunt quasi nihil.","2020-06-20 19:17:24",NULL
+"425","49","2.3","5.1","Voluptatibus dolorem sit nobis eum consequatur temporibus est.","2020-06-20 19:17:24",NULL
+"426","45","2.3","5.1","Alias ullam aut occaecati quibusdam.","2020-06-20 19:17:24",NULL
+"427","26","2.3","5.1","Deserunt incidunt perspiciatis eius libero architecto voluptatem qui.","2020-06-20 19:17:24",NULL
+"428","10","2.2","2.3","Qui nobis delectus vitae.","2020-06-20 19:17:24",NULL
+"429","14","2.2","2.3","Illo quia unde commodi omnis ipsum voluptas dolores.","2020-06-20 19:17:24",NULL
+"430","49","5.1","2.2","Voluptatem tempora amet consequatur commodi.","2020-06-20 19:17:24",NULL
+"431","42","5.1","2.2","Eius dolores temporibus vitae sint sit.","2020-06-20 19:17:24",NULL
+"432","14","2.2","5.1","Et nesciunt recusandae esse adipisci.","2020-06-20 19:17:24",NULL
+"433","34","2.3","5.1","Aut omnis in cumque officiis.","2020-06-20 19:17:24",NULL
+"434","44","5.1","5.1","Culpa placeat tempora quis voluptas.","2020-06-20 19:17:24",NULL
+"435","27","5.1","2.2","Necessitatibus et velit non voluptatem et id et fugit.","2020-06-20 19:17:24",NULL
+"436","44","2.2","5.1","Voluptatem autem ea est officia nihil maxime at.","2020-06-20 19:17:24",NULL
+"437","31","5.1","2.3","Nam perferendis iure beatae dignissimos.","2020-06-20 19:17:24",NULL
+"438","14","5.1","5.1","Maxime voluptas ut quasi aut et libero omnis.","2020-06-20 19:17:24",NULL
+"439","9","2.3","5.1","Aut modi minus quibusdam cumque molestiae possimus.","2020-06-20 19:17:24",NULL
+"440","19","2.2","5.1","Similique atque accusamus deserunt aut dignissimos labore cupiditate omnis.","2020-06-20 19:17:24",NULL
+"441","5","2.2","5.1","Molestiae odio quod non asperiores est tempore.","2020-06-20 19:17:24",NULL
+"442","50","5.1","5.1","Reprehenderit laboriosam iure qui consequuntur facilis.","2020-06-20 19:17:24",NULL
+"443","40","2.3","2.2","Odit eveniet eaque quia fugit excepturi est.","2020-06-20 19:17:24",NULL
+"444","50","5.1","5.1","Reprehenderit quibusdam similique et.","2020-06-20 19:17:24",NULL
+"445","3","5.1","2.2","Error voluptas totam explicabo earum saepe accusantium.","2020-06-20 19:17:24",NULL
+"446","14","5.1","5.1","Nihil non laboriosam voluptates voluptates.","2020-06-20 19:17:24",NULL
+"447","7","2.2","2.2","Aliquam perspiciatis quod reprehenderit odio temporibus nobis quia.","2020-06-20 19:17:24",NULL
+"448","36","5.1","5.1","Ducimus quo sequi sit voluptas.","2020-06-20 19:17:24",NULL
+"449","36","5.1","5.1","Culpa praesentium est quo ipsa omnis nesciunt.","2020-06-20 19:17:24",NULL
+"450","8","2.3","2.3","Totam nisi ipsa nisi minima.","2020-06-20 19:17:24",NULL
+"451","3","2.2","2.3","Maiores sapiente error qui ut.","2020-06-20 19:17:24",NULL
+"452","8","5.1","5.1","Est labore minus velit eius sequi amet.","2020-06-20 19:17:25",NULL
+"453","34","2.3","5.1","Sit rem repellendus labore consequuntur aut.","2020-06-20 19:17:25",NULL
+"454","6","5.1","2.2","Optio sequi vero sed quisquam omnis voluptate ut et.","2020-06-20 19:17:25",NULL
+"455","5","5.1","5.1","Dicta quis provident est et.","2020-06-20 19:17:25",NULL
+"456","44","2.2","2.3","Ut aut nobis aut totam debitis.","2020-06-20 19:17:25",NULL
+"457","12","2.2","2.2","Est sit ullam est cum.","2020-06-20 19:17:25",NULL
+"458","7","5.1","2.3","Iste quam quibusdam dolore aliquid.","2020-06-20 19:17:25",NULL
+"459","38","5.1","5.1","Odio reiciendis voluptas atque officia sequi molestias.","2020-06-20 19:17:25",NULL
+"460","38","5.1","2.3","Voluptatem illum praesentium cumque quibusdam et sed ipsam velit.","2020-06-20 19:17:25",NULL
+"461","42","5.1","2.3","Laborum debitis est illo nemo repellendus unde assumenda.","2020-06-20 19:17:25",NULL
+"462","25","2.3","5.1","Provident ut rem alias tempore nemo.","2020-06-20 19:17:25",NULL
+"463","46","5.1","5.1","Labore mollitia dolorem quo nesciunt enim eligendi.","2020-06-20 19:17:25",NULL
+"464","18","5.1","5.1","Voluptatem ullam voluptas est fugit.","2020-06-20 19:17:25",NULL
+"465","31","2.3","2.3","Mollitia magnam est quae nihil sequi.","2020-06-20 19:17:25",NULL
+"466","2","5.1","2.2","Accusamus et ipsam reprehenderit voluptatem voluptatum labore nobis.","2020-06-20 19:17:25",NULL
+"467","6","2.2","5.1","Aperiam est id aliquid laborum.","2020-06-20 19:17:25",NULL
+"468","3","5.1","2.2","Dolor omnis reprehenderit quia consequatur quia.","2020-06-20 19:17:25",NULL
+"469","17","5.1","2.3","Accusantium asperiores ratione sit ut.","2020-06-20 19:17:25",NULL
+"470","3","2.2","2.3","Sit itaque et labore sint asperiores.","2020-06-20 19:17:25",NULL
+"471","21","2.3","2.3","Accusamus dicta totam qui sit qui corporis deleniti quia.","2020-06-20 19:17:25",NULL
+"472","47","2.2","2.2","Ut ut dolorum eos eius aut rem.","2020-06-20 19:17:25",NULL
+"473","2","5.1","2.3","Nam ut dicta quia vero.","2020-06-20 19:17:25",NULL
+"474","10","2.2","5.1","Tempora nobis laboriosam velit alias sit.","2020-06-20 19:17:25",NULL
+"475","44","5.1","5.1","Quisquam eum non rem vel.","2020-06-20 19:17:25",NULL
+"476","34","2.2","2.2","Doloribus eveniet et sit error occaecati.","2020-06-20 19:17:25",NULL
+"477","50","5.1","2.3","Architecto distinctio dolor quis at et.","2020-06-20 19:17:25",NULL
+"478","47","5.1","2.2","Dicta totam aut quam.","2020-06-20 19:17:25",NULL
+"479","34","5.1","2.2","Est eum aut aut totam nisi.","2020-06-20 19:17:25",NULL
+"480","6","5.1","2.3","Facere distinctio molestias veritatis error suscipit repellat.","2020-06-20 19:17:25",NULL
+"481","47","2.2","2.2","Et labore molestias quia laudantium aperiam debitis similique.","2020-06-20 19:17:25",NULL
+"482","44","5.1","5.1","Vitae magnam quas incidunt in et vel error.","2020-06-20 19:17:25",NULL
+"483","38","5.1","5.1","Consequatur similique asperiores illo.","2020-06-20 19:17:25",NULL
+"484","32","5.1","2.3","Suscipit minima et eum.","2020-06-20 19:17:25",NULL
+"485","36","2.3","5.1","Autem delectus ipsa quidem expedita pariatur accusantium.","2020-06-20 19:17:25",NULL
+"486","40","2.2","2.3","Distinctio dolores fugiat reiciendis dignissimos sequi error dolorum.","2020-06-20 19:17:25",NULL
+"487","39","2.2","2.3","Vel ut ut blanditiis quaerat dolor ut quo.","2020-06-20 19:17:25",NULL
+"488","42","2.3","2.2","At explicabo velit voluptatem aut vero quia.","2020-06-20 19:17:25",NULL
+"489","12","5.1","2.3","Ratione perferendis sint nulla sed deleniti pariatur.","2020-06-20 19:17:25",NULL
+"490","13","5.1","2.2","Modi ea dicta eum dolore.","2020-06-20 19:17:25",NULL
+"491","31","5.1","5.1","Officiis quia veniam quia libero cum voluptas.","2020-06-20 19:17:26",NULL
+"492","43","2.3","5.1","Molestias et nihil nemo distinctio.","2020-06-20 19:17:26",NULL
+"493","20","2.3","2.2","Voluptatem laboriosam qui eum.","2020-06-20 19:17:26",NULL
+"494","35","2.3","5.1","Ab enim repudiandae dolor possimus ducimus fugiat eos laboriosam.","2020-06-20 19:17:26",NULL
+"495","46","5.1","5.1","Eligendi rerum ipsa qui molestias.","2020-06-20 19:17:26",NULL
+"496","19","5.1","5.1","Ut quam sunt in ipsum soluta explicabo.","2020-06-20 19:17:26",NULL
+"497","42","5.1","2.3","Autem adipisci esse placeat officia.","2020-06-20 19:17:26",NULL
+"498","47","5.1","5.1","Corporis ex tempore rerum quaerat velit.","2020-06-20 19:17:26",NULL
+"499","47","2.3","2.3","Voluptas quaerat ex exercitationem et voluptas.","2020-06-20 19:17:26",NULL
+"500","35","5.1","5.1","Libero tempore velit deleniti quo laborum.","2020-06-20 19:17:26",NULL
+"501","16","2.3","5.1","Nihil exercitationem quia distinctio id maxime quaerat dolore.","2020-06-20 19:17:26",NULL
+"502","46","5.1","2.2","Consectetur aut ad facilis officiis.","2020-06-20 19:17:26",NULL
+"503","27","5.1","2.3","Earum corrupti voluptas perspiciatis cum est facilis omnis.","2020-06-20 19:17:26",NULL
+"504","36","2.2","2.2","Omnis ut quod ut eum amet vel.","2020-06-20 19:17:26",NULL
+"505","28","2.2","5.1","Qui quaerat sapiente sint sed eveniet odio blanditiis.","2020-06-20 19:17:26",NULL
+"506","7","2.3","2.2","Quos a quo perferendis natus exercitationem ut officia.","2020-06-20 19:17:26",NULL
+"507","24","5.1","2.3","Accusamus dolore blanditiis sequi id necessitatibus quos.","2020-06-20 19:17:26",NULL
+"508","30","5.1","2.3","Qui quod iure non iste impedit necessitatibus.","2020-06-20 19:17:26",NULL
+"509","46","2.2","2.3","Nemo nihil maiores possimus illum.","2020-06-20 19:17:26",NULL
+"510","10","5.1","5.1","Vel sit voluptatum delectus suscipit iste fugiat atque.","2020-06-20 19:17:26",NULL
+"511","30","2.2","2.3","Et ducimus aut enim facilis magnam.","2020-06-20 19:17:26",NULL
+"512","33","2.2","5.1","Possimus perspiciatis aut accusantium soluta non quisquam sint.","2020-06-20 19:17:26",NULL
+"513","47","2.2","5.1","Molestiae est cumque voluptas.","2020-06-20 19:17:26",NULL
+"514","9","2.3","5.1","Sit rem id sed perferendis et velit itaque.","2020-06-20 19:17:26",NULL
+"515","7","5.1","5.1","Veritatis illo et consequatur.","2020-06-20 19:17:26",NULL
+"516","5","5.1","5.1","Non sit optio debitis dignissimos et est totam.","2020-06-20 19:17:26",NULL
+"517","3","5.1","2.2","Aut suscipit et et.","2020-06-20 19:17:26",NULL
+"518","34","5.1","2.2","Laborum vero totam quis facere eum aut.","2020-06-20 19:17:26",NULL
+"519","5","2.2","2.3","Aut id cum et.","2020-06-20 19:17:26",NULL
+"520","13","5.1","5.1","Vel ratione nostrum sit doloremque at.","2020-06-20 19:17:26",NULL
+"521","40","5.1","5.1","Iusto officia est temporibus ullam sit animi ea.","2020-06-20 19:17:26",NULL
+"522","17","2.3","2.2","Sapiente rem harum dolorem rerum qui vitae.","2020-06-20 19:17:26",NULL
+"523","34","5.1","5.1","Atque eius ut nulla quisquam labore voluptates.","2020-06-20 19:17:26",NULL
+"524","8","2.2","2.3","Maiores dolore esse et iure provident.","2020-06-20 19:17:26",NULL
+"525","9","5.1","5.1","Aut rerum itaque quo assumenda molestias vel aut.","2020-06-20 19:17:26",NULL
+"526","32","5.1","2.2","Blanditiis voluptatum dolorum eos iste.","2020-06-20 19:17:26",NULL
+"527","36","2.3","2.2","Excepturi aliquam vel molestiae eum aut voluptatem cum omnis.","2020-06-20 19:17:26",NULL
+"528","41","5.1","5.1","Veritatis laboriosam aspernatur et.","2020-06-20 19:17:26",NULL
+"529","2","2.2","5.1","Nesciunt praesentium et et facilis similique quae.","2020-06-20 19:17:26",NULL
+"530","40","2.3","5.1","Et repudiandae sint dolores et.","2020-06-20 19:17:26",NULL
+"531","20","5.1","5.1","Voluptatibus perferendis facilis earum vitae dicta et aliquid.","2020-06-20 19:17:27",NULL
+"532","35","2.3","5.1","Dignissimos inventore debitis est aut.","2020-06-20 19:17:27",NULL
+"533","41","2.2","2.3","Et vel voluptatem aut.","2020-06-20 19:17:27",NULL
+"534","15","2.3","5.1","Iste neque ut necessitatibus illo ab illum sint.","2020-06-20 19:17:27",NULL
+"535","6","5.1","5.1","Architecto facilis enim molestiae maiores et soluta.","2020-06-20 19:17:27",NULL
+"536","20","5.1","2.3","Id temporibus deleniti ad repudiandae et incidunt nemo.","2020-06-20 19:17:27",NULL
+"537","15","5.1","5.1","Alias pariatur et consequatur occaecati et perferendis omnis.","2020-06-20 19:17:27",NULL
+"538","38","2.2","2.3","Voluptatem et in omnis aperiam.","2020-06-20 19:17:27",NULL
+"539","4","5.1","2.3","Doloribus delectus cum quidem et voluptas aut dolor.","2020-06-20 19:17:27",NULL
+"540","42","2.3","2.2","Vero omnis doloribus veritatis ullam ut.","2020-06-20 19:17:27",NULL
+"541","34","5.1","5.1","Et facilis quam dicta et cumque.","2020-06-20 19:17:27",NULL
+"542","8","5.1","5.1","Aspernatur et nesciunt impedit quam.","2020-06-20 19:17:27",NULL
+"543","24","5.1","5.1","Animi incidunt nobis harum et commodi.","2020-06-20 19:17:27",NULL
+"544","11","5.1","2.3","Dolorem ut expedita dolore omnis eaque.","2020-06-20 19:17:27",NULL
+"545","49","5.1","2.3","Unde ut accusantium quod.","2020-06-20 19:17:27",NULL
+"546","32","2.2","2.3","Est facere iusto repellendus provident.","2020-06-20 19:17:27",NULL
+"547","17","5.1","5.1","Recusandae eligendi voluptate ipsa est nobis.","2020-06-20 19:17:27",NULL
+"548","37","5.1","2.2","Voluptatem fugit vel provident est numquam optio.","2020-06-20 19:17:27",NULL
+"549","33","2.3","5.1","Ratione eaque a voluptatibus ut commodi qui maiores.","2020-06-20 19:17:27",NULL
+"550","1","5.1","5.1","Voluptas et repudiandae quia necessitatibus hic voluptatum optio.","2020-06-20 19:17:27",NULL
+"551","34","2.2","5.1","Debitis culpa doloremque neque consequuntur qui recusandae.","2020-06-20 19:17:27",NULL
+"552","41","2.2","2.2","Maiores sed nostrum in officia sint et et.","2020-06-20 19:17:27",NULL
+"553","6","5.1","5.1","Recusandae omnis aliquam atque.","2020-06-20 19:17:27",NULL
+"554","37","5.1","5.1","Voluptate deleniti illo enim et sit id facilis.","2020-06-20 19:17:27",NULL
+"555","20","2.2","2.2","Ipsum quo repellendus nesciunt.","2020-06-20 19:17:27",NULL
+"556","48","5.1","5.1","Occaecati ea ratione ad ipsam perferendis.","2020-06-20 19:17:27",NULL
+"557","21","5.1","5.1","Blanditiis modi quas voluptatem aliquid.","2020-06-20 19:17:27",NULL
+"558","25","2.3","5.1","Assumenda eos et dolores dolorem.","2020-06-20 19:17:27",NULL
+"559","40","5.1","2.2","Laborum ullam sunt nam iure.","2020-06-20 19:17:27",NULL
+"560","15","2.2","5.1","Voluptatem blanditiis maxime quidem molestiae hic sed sed.","2020-06-20 19:17:27",NULL
+"561","11","5.1","2.2","Qui aut porro in et consequuntur consequatur.","2020-06-20 19:17:27",NULL
+"562","48","2.2","2.2","Vero architecto et earum.","2020-06-20 19:17:27",NULL
+"563","33","5.1","2.3","Distinctio cupiditate autem saepe iste.","2020-06-20 19:17:27",NULL
+"564","6","5.1","5.1","Exercitationem voluptatibus qui non ut odio.","2020-06-20 19:17:27",NULL
+"565","14","5.1","2.2","Possimus assumenda assumenda dolor assumenda quia.","2020-06-20 19:17:27",NULL
+"566","48","5.1","2.3","Eligendi non quia et.","2020-06-20 19:17:27",NULL
+"567","31","2.3","2.2","Ratione et in enim earum.","2020-06-20 19:17:27",NULL
+"568","4","5.1","2.2","Repudiandae exercitationem vero placeat praesentium rerum praesentium.","2020-06-20 19:17:27",NULL
+"569","2","2.3","5.1","Nesciunt corrupti sunt id commodi nam aperiam eum.","2020-06-20 19:17:27",NULL
+"570","32","2.3","5.1","Perspiciatis ut quibusdam voluptas sint.","2020-06-20 19:17:27",NULL
+"571","19","5.1","2.3","Vel illum architecto esse ut delectus itaque unde.","2020-06-20 19:17:28",NULL
+"572","2","5.1","5.1","Expedita vel optio ut soluta maiores libero.","2020-06-20 19:17:28",NULL
+"573","25","2.2","2.3","Ut aperiam ipsum hic iure molestias qui adipisci.","2020-06-20 19:17:28",NULL
+"574","18","5.1","2.3","Repellat officia laudantium dolores voluptatem ut id qui.","2020-06-20 19:17:28",NULL
+"575","1","5.1","2.2","Iusto possimus quo et ipsum minus.","2020-06-20 19:17:28",NULL
+"576","43","2.2","2.2","Sint eos voluptatem sit nihil voluptas saepe eveniet.","2020-06-20 19:17:28",NULL
+"577","28","2.2","5.1","Soluta et modi sequi quis repellendus officiis.","2020-06-20 19:17:28",NULL
+"578","25","2.3","2.2","In voluptates et voluptatibus minus modi.","2020-06-20 19:17:28",NULL
+"579","23","5.1","2.2","Expedita maxime iusto et possimus.","2020-06-20 19:17:28",NULL
+"580","28","2.3","5.1","Minus dolores ullam quia aut ad similique voluptatem.","2020-06-20 19:17:28",NULL
+"581","39","5.1","2.2","Eum perspiciatis quia officiis consequatur voluptatum.","2020-06-20 19:17:28",NULL
+"582","42","5.1","5.1","Saepe consectetur harum repellendus.","2020-06-20 19:17:28",NULL
+"583","44","2.3","2.2","Omnis et laudantium consequatur non velit nisi ullam accusamus.","2020-06-20 19:17:28",NULL
+"584","49","2.3","5.1","Laborum aut occaecati ut voluptate sequi.","2020-06-20 19:17:28",NULL
+"585","31","5.1","2.3","Ab voluptatem asperiores enim ut.","2020-06-20 19:17:28",NULL
+"586","22","2.2","5.1","Mollitia ut sit omnis enim voluptas laboriosam magnam.","2020-06-20 19:17:28",NULL
+"587","43","2.2","5.1","Voluptatibus quia sed cumque rerum corporis.","2020-06-20 19:17:28",NULL
+"588","34","2.2","5.1","Facere aut vel est corporis aspernatur.","2020-06-20 19:17:28",NULL
+"589","11","2.3","5.1","At facilis ut voluptas.","2020-06-20 19:17:28",NULL
+"590","38","5.1","2.3","Aspernatur ut est enim aut nam.","2020-06-20 19:17:28",NULL
+"591","40","2.3","5.1","Ea quis amet est aut similique.","2020-06-20 19:17:28",NULL
+"592","9","2.3","5.1","Pariatur est minus qui sit vero blanditiis repellat.","2020-06-20 19:17:28",NULL
+"593","24","5.1","2.3","Minus eum sit quas natus quo labore tempora.","2020-06-20 19:17:28",NULL
+"594","30","2.3","2.3","Soluta sed harum fugiat sunt.","2020-06-20 19:17:28",NULL
+"595","45","5.1","5.1","Qui dolorem molestiae molestias fugiat.","2020-06-20 19:17:28",NULL
+"596","3","5.1","5.1","Quaerat voluptas at asperiores rem dicta tempore ea.","2020-06-20 19:17:28",NULL
+"597","10","5.1","2.3","Sint nam consequatur reiciendis deleniti voluptatem.","2020-06-20 19:17:28",NULL
+"598","33","5.1","2.2","Veniam exercitationem laudantium magni est.","2020-06-20 19:17:28",NULL
+"599","23","5.1","2.3","Voluptatem ut quia eum explicabo itaque.","2020-06-20 19:17:28",NULL
+"600","11","2.3","2.2","Rerum voluptates quo velit nemo quos.","2020-06-20 19:17:28",NULL
+"601","3","2.2","2.2","Voluptas beatae rerum reiciendis architecto et itaque pariatur.","2020-06-20 19:17:28",NULL
+"602","43","5.1","2.2","Ab voluptatem unde nisi aut.","2020-06-20 19:17:28",NULL
+"603","7","5.1","2.3","Repellendus error pariatur qui quam nobis quia voluptas.","2020-06-20 19:17:28",NULL
+"604","29","2.2","2.2","Numquam id nemo praesentium sunt iure voluptatem.","2020-06-20 19:17:28",NULL
+"605","1","5.1","5.1","Voluptas neque nobis voluptate ea.","2020-06-20 19:17:28",NULL
+"606","16","2.2","5.1","Sunt fugiat voluptatem fugit dignissimos ut omnis.","2020-06-20 19:17:28",NULL
+"607","45","5.1","5.1","Adipisci sit nihil rerum repellendus alias laborum omnis sapiente.","2020-06-20 19:17:28",NULL
+"608","29","5.1","2.3","Molestiae non assumenda praesentium nobis voluptas necessitatibus.","2020-06-20 19:17:29",NULL
+"609","41","2.2","2.2","In officia illo commodi ullam.","2020-06-20 19:17:29",NULL
+"610","7","5.1","2.3","Ut tempore deleniti sunt et.","2020-06-20 19:17:29",NULL
+"611","21","5.1","2.3","Qui amet est molestiae est.","2020-06-20 19:17:29",NULL
+"612","39","5.1","2.2","Tempora velit distinctio nobis rerum quis possimus itaque in.","2020-06-20 19:17:29",NULL
+"613","26","2.3","2.2","Vel ratione neque odio molestiae rem quisquam.","2020-06-20 19:17:29",NULL
+"614","25","2.2","2.2","Magni et ut non.","2020-06-20 19:17:29",NULL
+"615","35","2.3","2.2","Voluptatem aut veniam repudiandae atque.","2020-06-20 19:17:29",NULL
+"616","31","2.3","5.1","Eos accusamus vel in asperiores.","2020-06-20 19:17:29",NULL
+"617","18","2.3","2.2","Provident amet natus ut aperiam sint vero vitae provident.","2020-06-20 19:17:29",NULL
+"618","9","5.1","2.2","Nesciunt natus ratione doloribus voluptatibus.","2020-06-20 19:17:29",NULL
+"619","3","2.3","5.1","Dolorem pariatur et at consequuntur.","2020-06-20 19:17:29",NULL
+"620","30","5.1","2.3","Accusamus molestiae mollitia est velit.","2020-06-20 19:17:29",NULL
+"621","28","2.2","2.2","Laborum corrupti eos perspiciatis quae distinctio qui consequuntur.","2020-06-20 19:17:29",NULL
+"622","4","2.3","5.1","Omnis iste qui veniam omnis ipsum eum itaque.","2020-06-20 19:17:29",NULL
+"623","19","5.1","2.3","Illo a provident voluptatem unde alias et voluptatibus.","2020-06-20 19:17:29",NULL
+"624","37","5.1","5.1","Animi earum aperiam suscipit suscipit sed rerum.","2020-06-20 19:17:29",NULL
+"625","42","5.1","5.1","Voluptate sunt totam ipsum libero.","2020-06-20 19:17:29",NULL
+"626","26","5.1","5.1","Eveniet soluta sed reiciendis eum.","2020-06-20 19:17:29",NULL
+"627","15","5.1","2.3","Ex et expedita perspiciatis debitis aut.","2020-06-20 19:17:29",NULL
+"628","3","5.1","5.1","Vel ut tenetur libero et.","2020-06-20 19:17:29",NULL
+"629","7","5.1","5.1","Quaerat dolorem sapiente adipisci adipisci et qui eum.","2020-06-20 19:17:29",NULL
+"630","20","5.1","5.1","Fugit facere in molestiae hic laborum consequuntur earum.","2020-06-20 19:17:29",NULL
+"631","43","5.1","2.2","Dolor eveniet unde et aliquid.","2020-06-20 19:17:29",NULL
+"632","39","5.1","2.3","Accusantium expedita magnam dolores.","2020-06-20 19:17:29",NULL
+"633","24","5.1","2.3","Iste fugiat magnam quae praesentium consequatur nisi laborum.","2020-06-20 19:17:29",NULL
+"634","24","2.3","5.1","Dolores voluptatem delectus est.","2020-06-20 19:17:29",NULL
+"635","20","2.2","5.1","Qui ut alias accusantium adipisci numquam aliquid.","2020-06-20 19:17:29",NULL
+"636","15","5.1","5.1","Praesentium dolorem omnis perferendis sunt.","2020-06-20 19:17:29",NULL
+"637","22","2.2","5.1","Voluptate et eos dicta.","2020-06-20 19:17:29",NULL
+"638","22","5.1","5.1","Sint ut perspiciatis molestias pariatur sunt fugiat saepe.","2020-06-20 19:17:29",NULL
+"639","11","2.2","5.1","Et autem esse at debitis maxime ratione.","2020-06-20 19:17:29",NULL
+"640","16","5.1","2.3","Magni non accusamus dicta rerum et.","2020-06-20 19:17:29",NULL
+"641","12","5.1","2.3","Est ut maxime sed qui.","2020-06-20 19:17:29",NULL
+"642","4","2.3","2.3","Ratione quo ut eligendi.","2020-06-20 19:17:29",NULL
+"643","29","5.1","5.1","Aut dicta et quam nihil.","2020-06-20 19:17:29",NULL
+"644","6","5.1","5.1","Adipisci iste deserunt velit magnam expedita et repellendus.","2020-06-20 19:17:29",NULL
+"645","11","5.1","5.1","Aut et ut omnis.","2020-06-20 19:17:29",NULL
+"646","46","2.2","5.1","Numquam et impedit iusto.","2020-06-20 19:17:30",NULL
+"647","2","5.1","2.3","Deleniti ipsa mollitia similique labore quas.","2020-06-20 19:17:30",NULL
+"648","48","5.1","5.1","Omnis cumque sit exercitationem excepturi ex fugit eum.","2020-06-20 19:17:30",NULL
+"649","21","2.2","2.3","Veritatis distinctio voluptas atque ut incidunt nemo.","2020-06-20 19:17:30",NULL
+"650","6","2.2","2.3","Fuga voluptatem ipsa molestias.","2020-06-20 19:17:30",NULL
+"651","28","2.2","5.1","Qui aspernatur voluptatem assumenda aspernatur.","2020-06-20 19:17:30",NULL
+"652","24","5.1","2.2","Dolores cum dolore ullam vel est.","2020-06-20 19:17:30",NULL
+"653","16","2.3","2.2","Saepe magni cupiditate sed cupiditate.","2020-06-20 19:17:30",NULL
+"654","32","2.3","5.1","Aut porro quaerat sed quibusdam et.","2020-06-20 19:17:30",NULL
+"655","28","5.1","5.1","Sed ut autem minima nihil temporibus soluta.","2020-06-20 19:17:30",NULL
+"656","32","2.2","2.2","Optio voluptatem autem et minus a officiis sequi.","2020-06-20 19:17:30",NULL
+"657","20","2.2","2.2","Ea quos quae ipsa adipisci.","2020-06-20 19:17:30",NULL
+"658","29","2.3","5.1","Quis veritatis temporibus aut mollitia minima deleniti et.","2020-06-20 19:17:30",NULL
+"659","10","5.1","2.2","Et quasi dolores vel velit voluptas.","2020-06-20 19:17:30",NULL
+"660","32","5.1","2.3","Itaque fuga harum iste iusto eveniet.","2020-06-20 19:17:30",NULL
+"661","9","2.2","5.1","Quae in quia veniam placeat.","2020-06-20 19:17:30",NULL
+"662","10","5.1","2.3","Explicabo recusandae est tenetur quasi.","2020-06-20 19:17:30",NULL
+"663","45","2.3","2.2","Dolor aliquam vel architecto non pariatur velit impedit.","2020-06-20 19:17:30",NULL
+"664","2","2.2","5.1","Quidem sint nihil eveniet esse voluptatem et.","2020-06-20 19:17:30",NULL
+"665","35","5.1","5.1","Est dicta aut ratione accusamus exercitationem.","2020-06-20 19:17:30",NULL
+"666","47","5.1","2.3","Temporibus repellat pariatur cupiditate nostrum.","2020-06-20 19:17:30",NULL
+"667","39","5.1","2.2","Aut odio iure voluptas quia quasi facilis nesciunt.","2020-06-20 19:17:30",NULL
+"668","12","5.1","5.1","Non ex nulla et vero quos atque distinctio aut.","2020-06-20 19:17:30",NULL
+"669","30","2.3","2.3","Illum quis pariatur ipsam est hic ullam non.","2020-06-20 19:17:30",NULL
+"670","9","2.2","2.2","Earum iusto debitis animi.","2020-06-20 19:17:30",NULL
+"671","25","2.2","2.3","Sed occaecati in fugiat praesentium natus maiores.","2020-06-20 19:17:30",NULL
+"672","6","5.1","5.1","Aliquid placeat nostrum aperiam et.","2020-06-20 19:17:30",NULL
+"673","38","2.3","5.1","Dicta laboriosam aut sunt sapiente.","2020-06-20 19:17:30",NULL
+"674","30","2.2","5.1","Blanditiis et at tempore voluptates.","2020-06-20 19:17:30",NULL
+"675","13","2.3","5.1","Cum nulla laborum voluptatem.","2020-06-20 19:17:30",NULL
+"676","25","2.3","5.1","Sunt rerum odio consectetur quia vel voluptas quidem.","2020-06-20 19:17:30",NULL
+"677","2","2.3","2.3","Saepe quibusdam voluptatum temporibus sunt.","2020-06-20 19:17:30",NULL
+"678","40","5.1","2.2","Non officiis veniam sit voluptatem aperiam reiciendis rerum nihil.","2020-06-20 19:17:30",NULL
+"679","46","2.2","2.3","Doloribus dicta error omnis fugit expedita expedita.","2020-06-20 19:17:30",NULL
+"680","30","5.1","2.3","Vero nobis ipsum est neque id voluptatum animi suscipit.","2020-06-20 19:17:30",NULL
+"681","4","2.2","2.3","Ut vero illo odio qui labore qui.","2020-06-20 19:17:30",NULL
+"682","20","2.2","2.2","Placeat odio saepe quo adipisci eos.","2020-06-20 19:17:30",NULL
+"683","48","5.1","5.1","Eius maiores inventore et tempore nesciunt.","2020-06-20 19:17:30",NULL
+"684","34","2.2","2.2","Blanditiis corporis voluptas soluta ipsam.","2020-06-20 19:17:31",NULL
+"685","4","2.3","2.2","Vero debitis tempora ratione deleniti et architecto.","2020-06-20 19:17:31",NULL
+"686","45","5.1","5.1","Accusamus quia sequi iste quibusdam voluptatem sint dignissimos.","2020-06-20 19:17:31",NULL
+"687","4","2.3","2.3","Dignissimos quo quia voluptatibus aut.","2020-06-20 19:17:31",NULL
+"688","48","5.1","5.1","Velit est sed consequatur eum.","2020-06-20 19:17:31",NULL
+"689","40","2.2","2.3","Tempore est reprehenderit atque maxime.","2020-06-20 19:17:31",NULL
+"690","20","5.1","5.1","Omnis amet architecto aut molestiae.","2020-06-20 19:17:31",NULL
+"691","32","5.1","2.3","Tempora qui qui explicabo ut.","2020-06-20 19:17:31",NULL
+"692","8","5.1","2.2","Suscipit porro atque accusamus incidunt.","2020-06-20 19:17:31",NULL
+"693","26","2.3","5.1","Sed voluptatem hic ab voluptatibus dolor.","2020-06-20 19:17:31",NULL
+"694","1","2.2","2.2","Nemo qui quia in dignissimos expedita.","2020-06-20 19:17:31",NULL
+"695","42","5.1","5.1","Corporis aut voluptas voluptas repudiandae asperiores molestiae.","2020-06-20 19:17:31",NULL
+"696","16","2.3","5.1","Ut et consequatur magni eos facilis et consequatur.","2020-06-20 19:17:31",NULL
+"697","34","2.3","2.3","Dolore magni ducimus odio corrupti.","2020-06-20 19:17:31",NULL
+"698","43","2.3","2.3","Nihil minima aut et aut cumque at ut.","2020-06-20 19:17:31",NULL
+"699","4","5.1","5.1","Necessitatibus temporibus voluptates minima repellendus et tenetur.","2020-06-20 19:17:31",NULL
+"700","39","2.3","5.1","Pariatur provident omnis optio et.","2020-06-20 19:17:31",NULL
+"701","30","5.1","5.1","Deleniti et veritatis quasi aliquid.","2020-06-20 19:17:31",NULL
+"702","33","5.1","5.1","Voluptate quod illo porro minus.","2020-06-20 19:17:31",NULL
+"703","34","5.1","5.1","Repudiandae magni voluptatem dignissimos.","2020-06-20 19:17:31",NULL
+"704","18","2.2","5.1","Ut et corrupti in quaerat sunt.","2020-06-20 19:17:31",NULL
+"705","4","5.1","5.1","Beatae optio voluptatem alias tempore qui dicta.","2020-06-20 19:17:31",NULL
+"706","26","5.1","5.1","Ab consequatur ut quia deleniti id est sit ducimus.","2020-06-20 19:17:31",NULL
+"707","6","5.1","5.1","Dolores minima quo autem sed et earum velit rerum.","2020-06-20 19:17:31",NULL
+"708","30","2.3","2.2","Temporibus quis quia expedita rerum minima nesciunt.","2020-06-20 19:17:31",NULL
+"709","11","5.1","2.2","Non fugiat recusandae magni quis odio est assumenda quasi.","2020-06-20 19:17:31",NULL
+"710","30","2.3","5.1","Quia vel doloremque occaecati repudiandae.","2020-06-20 19:17:31",NULL
+"711","23","5.1","2.2","Earum repellendus delectus sed et eius iure.","2020-06-20 19:17:31",NULL
+"712","46","5.1","2.3","Ex nulla neque rerum porro eius.","2020-06-20 19:17:31",NULL
+"713","9","5.1","2.2","Et velit incidunt qui odio omnis accusantium.","2020-06-20 19:17:31",NULL
+"714","38","2.3","2.3","Sed sed corrupti amet magni.","2020-06-20 19:17:31",NULL
+"715","17","5.1","5.1","Et cum quos magnam unde repellat omnis.","2020-06-20 19:17:31",NULL
+"716","19","5.1","5.1","Nemo sunt nihil voluptas in qui.","2020-06-20 19:17:31",NULL
+"717","28","2.2","5.1","In consequuntur quo quidem in et adipisci.","2020-06-20 19:17:31",NULL
+"718","39","2.2","5.1","Aut tempora et et maiores.","2020-06-20 19:17:31",NULL
+"719","27","5.1","5.1","Dolor accusamus tempore atque occaecati.","2020-06-20 19:17:31",NULL
+"720","40","2.3","5.1","Voluptatem sint est tempore cupiditate eum.","2020-06-20 19:17:31",NULL
+"721","14","2.3","2.2","Sed est non sequi omnis animi explicabo harum.","2020-06-20 19:17:31",NULL
+"722","50","5.1","2.2","Temporibus atque dolorem cupiditate veniam.","2020-06-20 19:17:32",NULL
+"723","50","5.1","5.1","Est quos nesciunt sequi quasi vel.","2020-06-20 19:17:32",NULL
+"724","2","5.1","2.3","Quisquam et sunt omnis ab sit quibusdam.","2020-06-20 19:17:32",NULL
+"725","32","2.3","5.1","Necessitatibus animi modi quia possimus quo in.","2020-06-20 19:17:32",NULL
+"726","7","5.1","2.2","Et aspernatur officia sint molestiae magni doloribus repudiandae et.","2020-06-20 19:17:32",NULL
+"727","49","5.1","2.3","Explicabo consequatur fugiat est id eos sed et.","2020-06-20 19:17:32",NULL
+"728","34","2.2","5.1","Deserunt et quae mollitia eum animi.","2020-06-20 19:17:32",NULL
+"729","2","5.1","2.2","Assumenda mollitia nam atque.","2020-06-20 19:17:32",NULL
+"730","20","2.3","5.1","Cum ea iure et voluptas quidem voluptates nihil.","2020-06-20 19:17:32",NULL
+"731","42","2.3","2.3","Soluta numquam maiores libero dolorem corrupti repellendus et.","2020-06-20 19:17:32",NULL
+"732","14","5.1","5.1","Nobis veritatis est non recusandae omnis quam pariatur.","2020-06-20 19:17:32",NULL
+"733","47","2.2","2.3","Ducimus occaecati atque minima nam culpa.","2020-06-20 19:17:32",NULL
+"734","32","5.1","2.2","Eos ratione id pariatur voluptates.","2020-06-20 19:17:32",NULL
+"735","48","2.2","2.2","Laboriosam explicabo dicta voluptas voluptatem adipisci.","2020-06-20 19:17:32",NULL
+"736","10","2.2","5.1","Aut esse quas nam ut ducimus voluptatem.","2020-06-20 19:17:32",NULL
+"737","42","5.1","5.1","Enim ut repudiandae voluptatibus eius et quo a amet.","2020-06-20 19:17:32",NULL
+"738","8","2.2","5.1","Alias blanditiis aut autem eveniet.","2020-06-20 19:17:32",NULL
+"739","45","5.1","2.3","Non id et omnis amet consequatur.","2020-06-20 19:17:32",NULL
+"740","20","2.3","5.1","Fuga sed corrupti qui fugit sequi non amet.","2020-06-20 19:17:32",NULL
+"741","26","5.1","2.2","Repellendus hic voluptatum sapiente illum non rerum consectetur.","2020-06-20 19:17:32",NULL
+"742","18","2.3","2.2","Voluptatibus quia asperiores qui quo animi iusto.","2020-06-20 19:17:32",NULL
+"743","34","2.2","5.1","Quaerat corporis qui officia alias dolorem sit sed.","2020-06-20 19:17:32",NULL
+"744","21","2.3","2.2","Quae qui praesentium beatae saepe ut voluptatum.","2020-06-20 19:17:32",NULL
+"745","44","5.1","5.1","Ut dolorum est et omnis quidem.","2020-06-20 19:17:32",NULL
+"746","24","2.2","2.2","Odit blanditiis commodi eligendi dolor vitae fuga qui omnis.","2020-06-20 19:17:32",NULL
+"747","17","2.3","2.2","Nemo deleniti sequi eos nesciunt modi possimus.","2020-06-20 19:17:32",NULL
+"748","12","5.1","2.2","Aut veniam enim impedit assumenda non.","2020-06-20 19:17:32",NULL
+"749","17","5.1","2.3","Nam natus maiores amet molestiae ut.","2020-06-20 19:17:32",NULL
+"750","22","5.1","5.1","Minima et architecto aspernatur consequatur.","2020-06-20 19:17:32",NULL
+"751","17","2.2","2.3","Ipsum laboriosam voluptate omnis voluptatum ipsum non.","2020-06-20 19:17:32",NULL
+"752","22","5.1","2.2","Magni sed nulla et quia.","2020-06-20 19:17:32",NULL
+"753","35","2.2","2.2","Delectus inventore a nam enim.","2020-06-20 19:17:32",NULL
+"754","43","2.3","2.2","Distinctio numquam repellendus rerum et.","2020-06-20 19:17:32",NULL
+"755","41","2.3","2.3","Nihil quia rerum et.","2020-06-20 19:17:32",NULL
+"756","11","2.3","2.3","Labore molestiae expedita velit similique.","2020-06-20 19:17:32",NULL
+"757","16","2.2","2.3","Modi maxime voluptatibus inventore id pariatur.","2020-06-20 19:17:32",NULL
+"758","49","2.3","2.2","Culpa consequatur pariatur deserunt id consequatur animi nostrum.","2020-06-20 19:17:32",NULL
+"759","8","2.3","2.3","Quia fugiat omnis nostrum ut consectetur cumque officiis voluptas.","2020-06-20 19:17:32",NULL
+"760","22","5.1","5.1","Quo iusto cumque distinctio consequatur praesentium ipsum.","2020-06-20 19:17:32",NULL
+"761","29","2.3","2.2","Eos maiores nemo soluta.","2020-06-20 19:17:32",NULL
+"762","11","2.2","2.3","Quis facere non numquam omnis.","2020-06-20 19:17:32",NULL
+"763","49","2.2","2.2","Quo repellat ullam minus architecto ipsam et nam.","2020-06-20 19:17:32",NULL
+"764","33","5.1","2.3","Impedit consequatur excepturi eaque optio ea voluptatum ex.","2020-06-20 19:17:32",NULL
+"765","16","5.1","5.1","Laudantium laudantium quaerat reiciendis at inventore ut.","2020-06-20 19:17:32",NULL
+"766","11","2.2","5.1","Inventore ut eveniet nihil vel dolor fuga soluta aliquid.","2020-06-20 19:17:33",NULL
+"767","50","2.3","5.1","Fugit quo est facere reiciendis.","2020-06-20 19:17:33",NULL
+"768","15","5.1","5.1","Quibusdam quia voluptatem omnis quo sequi incidunt id consequuntur.","2020-06-20 19:17:33",NULL
+"769","11","2.2","5.1","Aliquam consequatur tempora vitae at similique quis alias fuga.","2020-06-20 19:17:33",NULL
+"770","3","2.2","2.2","Natus dolor est necessitatibus consequatur sapiente esse.","2020-06-20 19:17:33",NULL
+"771","7","5.1","2.2","Quisquam est et quidem sed.","2020-06-20 19:17:33",NULL
+"772","39","2.3","5.1","Quae quo modi asperiores.","2020-06-20 19:17:33",NULL
+"773","43","5.1","2.2","Debitis consequuntur molestiae quasi et praesentium vero tempore.","2020-06-20 19:17:33",NULL
+"774","9","5.1","5.1","Velit libero recusandae qui saepe dignissimos suscipit.","2020-06-20 19:17:33",NULL
+"775","18","5.1","5.1","Quis voluptas similique assumenda et minima aut distinctio nobis.","2020-06-20 19:17:33",NULL
+"776","5","2.3","2.2","Quaerat vitae consequuntur eveniet facilis.","2020-06-20 19:17:33",NULL
+"777","16","5.1","2.3","Autem quibusdam saepe corporis voluptatibus.","2020-06-20 19:17:33",NULL
+"778","1","2.2","5.1","Omnis rerum aspernatur nostrum voluptates vel quos vitae.","2020-06-20 19:17:33",NULL
+"779","40","2.2","5.1","Et non dolorum reprehenderit corporis aliquid.","2020-06-20 19:17:33",NULL
+"780","47","2.3","2.2","Officia ut eligendi ut enim soluta et.","2020-06-20 19:17:33",NULL
+"781","7","2.3","5.1","Nobis aut consequuntur quisquam aut consectetur quia quia eveniet.","2020-06-20 19:17:33",NULL
+"782","39","5.1","2.3","Alias dolorem optio in quibusdam exercitationem non odio.","2020-06-20 19:17:33",NULL
+"783","15","5.1","5.1","Nostrum ipsum occaecati quae soluta vel reprehenderit.","2020-06-20 19:17:33",NULL
+"784","9","5.1","2.3","Commodi consequuntur ullam magni a minima eos perspiciatis.","2020-06-20 19:17:33",NULL
+"785","20","2.2","5.1","Et placeat doloribus enim alias aspernatur.","2020-06-20 19:17:33",NULL
+"786","47","2.2","2.2","Fugiat modi fuga sint.","2020-06-20 19:17:33",NULL
+"787","8","5.1","2.3","Libero dolorum corrupti id aut libero voluptatem.","2020-06-20 19:17:33",NULL
+"788","28","2.3","5.1","Itaque est rerum voluptatibus ratione est quia culpa.","2020-06-20 19:17:33",NULL
+"789","40","2.3","5.1","Asperiores omnis sed accusamus dolores nesciunt quia.","2020-06-20 19:17:33",NULL
+"790","13","2.3","5.1","Soluta est sunt earum itaque ipsum assumenda omnis.","2020-06-20 19:17:33",NULL
+"791","3","2.3","2.2","Vel soluta atque sint eum voluptas veniam.","2020-06-20 19:17:33",NULL
+"792","39","2.3","2.3","Ea earum voluptatum et ut asperiores.","2020-06-20 19:17:33",NULL
+"793","11","5.1","2.3","Est nam quisquam saepe molestias.","2020-06-20 19:17:33",NULL
+"794","1","2.3","5.1","Et eum dolores et fuga eius esse dolores.","2020-06-20 19:17:33",NULL
+"795","47","2.2","5.1","Dolores esse at est dicta aliquam et.","2020-06-20 19:17:33",NULL
+"796","37","2.2","5.1","Rem et totam magni odit nulla.","2020-06-20 19:17:33",NULL
+"797","29","2.3","5.1","Cupiditate tempora non rerum tenetur ab et perspiciatis ad.","2020-06-20 19:17:33",NULL
+"798","50","5.1","5.1","Fugiat debitis amet quasi consectetur cum.","2020-06-20 19:17:33",NULL
+"799","34","2.3","2.2","Harum ut qui tenetur.","2020-06-20 19:17:33",NULL
+"800","6","2.2","5.1","Corporis natus blanditiis minus nihil est id.","2020-06-20 19:17:33",NULL
+"801","37","2.3","5.1","Est voluptas nostrum tempora quia.","2020-06-20 19:17:33",NULL
+"802","49","2.3","2.3","Sint sunt et hic autem necessitatibus saepe suscipit in.","2020-06-20 19:17:33",NULL
+"803","28","5.1","5.1","Voluptatem libero dolorum nihil labore aut delectus quod.","2020-06-20 19:17:33",NULL
+"804","13","2.3","5.1","Sed ut impedit sint sunt et recusandae.","2020-06-20 19:17:33",NULL
+"805","22","5.1","2.2","Aut nulla dolorem quia ut est reprehenderit in.","2020-06-20 19:17:33",NULL
+"806","3","5.1","2.2","Neque id voluptate est nisi expedita ut quas at.","2020-06-20 19:17:34",NULL
+"807","24","2.3","2.3","Et qui maiores veritatis at velit.","2020-06-20 19:17:34",NULL
+"808","31","2.3","5.1","Ducimus alias doloribus nobis qui omnis qui.","2020-06-20 19:17:34",NULL
+"809","3","5.1","2.3","Aut qui necessitatibus rerum quia perferendis unde est.","2020-06-20 19:17:34",NULL
+"810","11","5.1","5.1","Deserunt officiis a porro saepe quia sit voluptatum tempora.","2020-06-20 19:17:34",NULL
+"811","42","2.2","5.1","Sint omnis eveniet voluptatem.","2020-06-20 19:17:34",NULL
+"812","20","5.1","2.3","Voluptatem earum ut dolorem sint placeat cupiditate sit tempora.","2020-06-20 19:17:34",NULL
+"813","10","5.1","2.2","Repudiandae cum unde magni est ullam quibusdam.","2020-06-20 19:17:34",NULL
+"814","40","2.3","5.1","Accusamus id voluptas laudantium doloribus numquam mollitia.","2020-06-20 19:17:34",NULL
+"815","34","2.2","5.1","Soluta amet nesciunt ipsa consequatur reprehenderit.","2020-06-20 19:17:34",NULL
+"816","21","5.1","2.2","Quasi quia qui at rerum possimus architecto nihil.","2020-06-20 19:17:34",NULL
+"817","37","2.2","5.1","Alias alias ducimus aspernatur facere repellat.","2020-06-20 19:17:34",NULL
+"818","25","5.1","5.1","Magnam qui labore facere distinctio ducimus.","2020-06-20 19:17:34",NULL
+"819","10","2.2","2.2","Ut distinctio omnis unde id.","2020-06-20 19:17:34",NULL
+"820","3","2.2","5.1","Molestiae sunt non qui sed.","2020-06-20 19:17:34",NULL
+"821","34","2.2","2.3","Totam ducimus eveniet eos nulla inventore.","2020-06-20 19:17:34",NULL
+"822","32","5.1","2.3","Soluta beatae velit assumenda et molestias quae quae.","2020-06-20 19:17:34",NULL
+"823","12","5.1","5.1","Voluptatem sit esse ab est consequuntur autem aperiam officiis.","2020-06-20 19:17:34",NULL
+"824","33","2.3","2.3","Ab consequuntur rerum quibusdam ea totam recusandae.","2020-06-20 19:17:34",NULL
+"825","37","5.1","5.1","Cupiditate et rerum sunt voluptatem.","2020-06-20 19:17:34",NULL
+"826","26","2.2","5.1","Et quia et et veniam aliquam id perspiciatis.","2020-06-20 19:17:34",NULL
+"827","46","2.2","5.1","Repudiandae praesentium enim at sequi repellendus magnam.","2020-06-20 19:17:34",NULL
+"828","32","5.1","5.1","Accusantium harum et laudantium libero aspernatur.","2020-06-20 19:17:34",NULL
+"829","2","5.1","5.1","Ea nemo quasi et minus sed a dolor.","2020-06-20 19:17:34",NULL
+"830","39","2.2","2.2","Pariatur aut est voluptates quos animi quidem.","2020-06-20 19:17:34",NULL
+"831","18","2.3","2.3","Sunt nulla deleniti omnis quos vero praesentium.","2020-06-20 19:17:34",NULL
+"832","28","2.3","2.2","Consectetur ex amet aut rerum hic incidunt.","2020-06-20 19:17:34",NULL
+"833","33","2.2","5.1","Omnis unde at ipsam sequi incidunt.","2020-06-20 19:17:34",NULL
+"834","8","2.2","5.1","Voluptatem tenetur delectus illo dolor nihil at soluta facere.","2020-06-20 19:17:34",NULL
+"835","42","2.2","5.1","Dolore ratione et aut debitis dolor dolor fuga.","2020-06-20 19:17:34",NULL
+"836","23","5.1","2.3","Sunt qui non nostrum quod quae aut sed.","2020-06-20 19:17:34",NULL
+"837","18","2.3","5.1","Et officia deleniti officiis natus laborum sapiente et dolores.","2020-06-20 19:17:34",NULL
+"838","32","5.1","2.3","Non libero at amet maiores deserunt sint.","2020-06-20 19:17:34",NULL
+"839","48","5.1","2.2","Est odit iste deserunt cupiditate labore iusto et.","2020-06-20 19:17:34",NULL
+"840","9","5.1","2.3","Corrupti assumenda expedita cupiditate quae.","2020-06-20 19:17:34",NULL
+"841","20","2.2","2.2","Maxime rem eius quis.","2020-06-20 19:17:34",NULL
+"842","21","2.2","2.2","Atque fuga alias rerum qui.","2020-06-20 19:17:34",NULL
+"843","31","5.1","2.2","Est qui molestiae numquam aliquam culpa.","2020-06-20 19:17:34",NULL
+"844","25","2.3","5.1","Voluptate delectus voluptatum libero officia laborum.","2020-06-20 19:17:34",NULL
+"845","48","5.1","5.1","Maiores facere qui possimus dolorum ad dolores.","2020-06-20 19:17:34",NULL
+"846","17","5.1","5.1","At nihil rem eum asperiores omnis aut.","2020-06-20 19:17:34",NULL
+"847","38","2.3","5.1","Porro voluptate accusamus dolorem.","2020-06-20 19:17:34",NULL
+"848","22","2.3","5.1","Dolor itaque iure est sapiente et sint voluptatem.","2020-06-20 19:17:35",NULL
+"849","38","2.3","2.2","Voluptates tempore ducimus et eum sed.","2020-06-20 19:17:35",NULL
+"850","25","2.3","2.2","Id in atque et officia.","2020-06-20 19:17:35",NULL
+"851","11","5.1","2.3","Culpa maiores dolorem iste.","2020-06-20 19:17:35",NULL
+"852","29","2.2","5.1","Magnam amet cumque voluptatem magni magnam nobis.","2020-06-20 19:17:35",NULL
+"853","37","2.2","2.3","Laborum deserunt dolorum illo dicta iusto voluptatem aliquam.","2020-06-20 19:17:35",NULL
+"854","48","2.3","2.3","Maiores quos incidunt eos expedita aut reiciendis.","2020-06-20 19:17:35",NULL
+"855","45","5.1","5.1","A qui aut nulla quas.","2020-06-20 19:17:35",NULL
+"856","9","2.3","2.3","Qui vitae qui nisi quia ea.","2020-06-20 19:17:35",NULL
+"857","20","2.3","5.1","Quam voluptatem vel dolorum eius neque repudiandae est.","2020-06-20 19:17:35",NULL
+"858","36","5.1","2.3","Magnam veritatis occaecati ut eaque voluptas maiores.","2020-06-20 19:17:35",NULL
+"859","32","2.2","5.1","Ut eum praesentium iste explicabo perferendis ut ut.","2020-06-20 19:17:35",NULL
+"860","43","5.1","2.3","Velit sunt et nemo iure est laborum aliquid labore.","2020-06-20 19:17:35",NULL
+"861","20","5.1","5.1","Saepe culpa consequatur voluptas enim inventore ipsa.","2020-06-20 19:17:35",NULL
+"862","36","2.2","5.1","Temporibus possimus non nemo dolores consequatur ipsa.","2020-06-20 19:17:35",NULL
+"863","31","5.1","5.1","Ut quis porro non illum.","2020-06-20 19:17:35",NULL
+"864","29","5.1","2.2","Deserunt rerum in molestias iusto qui.","2020-06-20 19:17:35",NULL
+"865","24","2.2","2.2","Enim qui eius suscipit magnam explicabo.","2020-06-20 19:17:35",NULL
+"866","44","2.2","2.2","Voluptatem perferendis qui occaecati aperiam ab provident nesciunt.","2020-06-20 19:17:35",NULL
+"867","24","2.2","2.2","Ut sed ipsum quos itaque et.","2020-06-20 19:17:35",NULL
+"868","22","5.1","5.1","Corrupti voluptatibus magni excepturi reiciendis rem consectetur culpa.","2020-06-20 19:17:35",NULL
+"869","49","2.2","5.1","Aliquid nostrum voluptas doloribus.","2020-06-20 19:17:35",NULL
+"870","14","2.2","2.3","Quos beatae veritatis possimus aut tenetur officia.","2020-06-20 19:17:35",NULL
+"871","15","2.3","5.1","Repellat atque facilis voluptatum.","2020-06-20 19:17:35",NULL
+"872","38","2.2","5.1","Maiores veritatis quo vel at quia qui.","2020-06-20 19:17:35",NULL
+"873","30","5.1","5.1","Ratione odit est aut vel aut quam omnis quo.","2020-06-20 19:17:35",NULL
+"874","22","2.3","2.3","Facere ut labore nostrum rem et autem.","2020-06-20 19:17:35",NULL
+"875","11","2.2","2.3","Maxime omnis ipsa fuga et harum aliquam non.","2020-06-20 19:17:35",NULL
+"876","17","2.2","5.1","Sit eos aliquam perspiciatis quia magnam eos asperiores autem.","2020-06-20 19:17:35",NULL
+"877","38","5.1","2.3","Maxime suscipit et eveniet voluptatem.","2020-06-20 19:17:35",NULL
+"878","23","5.1","5.1","Enim cumque iusto corporis qui eum aliquam consequatur.","2020-06-20 19:17:35",NULL
+"879","48","5.1","5.1","Est voluptatem eos consectetur impedit quaerat iusto.","2020-06-20 19:17:35",NULL
+"880","6","2.3","2.2","Accusantium et voluptate quae ipsa laudantium quos.","2020-06-20 19:17:35",NULL
+"881","1","2.2","2.3","Dolor voluptatibus voluptas atque dolore odio consequuntur.","2020-06-20 19:17:35",NULL
+"882","44","2.3","5.1","Nulla iste nihil recusandae quisquam quo et autem.","2020-06-20 19:17:35",NULL
+"883","22","2.3","5.1","Animi nihil delectus sit harum.","2020-06-20 19:17:35",NULL
+"884","7","2.2","2.2","Atque error sunt alias sed sed veniam tenetur.","2020-06-20 19:17:35",NULL
+"885","9","2.3","5.1","Voluptas et est odit soluta a.","2020-06-20 19:17:35",NULL
+"886","15","2.2","5.1","Sunt quis sequi sed qui quos unde qui nihil.","2020-06-20 19:17:35",NULL
+"887","5","5.1","5.1","Vitae sint animi ad quam.","2020-06-20 19:17:35",NULL
+"888","4","5.1","2.3","Explicabo omnis officia est.","2020-06-20 19:17:36",NULL
+"889","26","5.1","2.3","Omnis similique vel nobis quo sed animi vel.","2020-06-20 19:17:36",NULL
+"890","47","5.1","5.1","Voluptatem in dolores laborum eius.","2020-06-20 19:17:36",NULL
+"891","13","2.2","2.2","Atque illo placeat voluptatibus asperiores perferendis cupiditate soluta.","2020-06-20 19:17:36",NULL
+"892","33","5.1","5.1","Ea sunt minima reiciendis dolorem libero facilis esse fuga.","2020-06-20 19:17:36",NULL
+"893","49","2.3","5.1","Qui distinctio perspiciatis nemo beatae minus dolores facere.","2020-06-20 19:17:36",NULL
+"894","11","5.1","5.1","Rerum qui hic mollitia illo quis illo.","2020-06-20 19:17:36",NULL
+"895","16","2.3","2.3","Perspiciatis voluptatibus nulla quis nihil.","2020-06-20 19:17:36",NULL
+"896","40","5.1","5.1","Aperiam numquam aut et quibusdam sit iusto.","2020-06-20 19:17:36",NULL
+"897","23","2.3","2.3","Cupiditate cupiditate aut voluptatum cum harum.","2020-06-20 19:17:36",NULL
+"898","36","2.3","5.1","Corporis assumenda soluta in fuga.","2020-06-20 19:17:36",NULL
+"899","41","5.1","2.2","Sequi inventore cum facilis ratione est.","2020-06-20 19:17:36",NULL
+"900","25","2.2","5.1","Est qui modi labore.","2020-06-20 19:17:36",NULL
+"901","42","2.3","5.1","Sunt quibusdam suscipit officia a nam eligendi explicabo.","2020-06-20 19:17:36",NULL
+"902","49","5.1","2.2","Ut autem molestias facilis deleniti eveniet officiis.","2020-06-20 19:17:36",NULL
+"903","16","5.1","5.1","Quia veritatis et repellat et deserunt debitis.","2020-06-20 19:17:36",NULL
+"904","37","2.3","2.2","Deleniti modi cum est voluptatem.","2020-06-20 19:17:36",NULL
+"905","32","5.1","2.2","Consequatur sit labore officiis.","2020-06-20 19:17:36",NULL
+"906","24","2.3","5.1","Tempora cumque occaecati dolorem mollitia tempora est nam numquam.","2020-06-20 19:17:36",NULL
+"907","14","2.2","2.3","Ipsum eos quis voluptas expedita.","2020-06-20 19:17:36",NULL
+"908","20","5.1","5.1","Error porro ad quis aperiam perferendis qui ipsam.","2020-06-20 19:17:36",NULL
+"909","44","2.3","2.3","Eos facere unde enim ab aspernatur a iure corrupti.","2020-06-20 19:17:36",NULL
+"910","25","5.1","2.3","Quaerat totam at laudantium a et in delectus.","2020-06-20 19:17:36",NULL
+"911","49","5.1","2.3","Tempora molestias aperiam nihil.","2020-06-20 19:17:36",NULL
+"912","48","2.3","2.3","Deserunt enim est quasi consequatur.","2020-06-20 19:17:36",NULL
+"913","45","5.1","2.2","Occaecati eos voluptate dolore.","2020-06-20 19:17:36",NULL
+"914","29","5.1","5.1","Ipsam aut deleniti ad ut architecto assumenda ut sequi.","2020-06-20 19:17:36",NULL
+"915","27","2.3","2.3","Quo sint sed reprehenderit.","2020-06-20 19:17:36",NULL
+"916","36","5.1","2.3","Error molestias aliquid nihil adipisci vero.","2020-06-20 19:17:36",NULL
+"917","50","2.3","5.1","Id voluptatem iste dignissimos et non perferendis expedita alias.","2020-06-20 19:17:36",NULL
+"918","25","5.1","5.1","Doloremque aut id maxime earum.","2020-06-20 19:17:36",NULL
+"919","26","5.1","5.1","Deserunt unde ipsa maxime reiciendis delectus.","2020-06-20 19:17:36",NULL
+"920","42","2.3","5.1","Est consequatur mollitia eos quam.","2020-06-20 19:17:36",NULL
+"921","48","2.2","2.3","Ad ea rerum qui laboriosam exercitationem necessitatibus.","2020-06-20 19:17:36",NULL
+"922","46","5.1","2.2","Quibusdam in recusandae dignissimos et perspiciatis molestias est.","2020-06-20 19:17:36",NULL
+"923","27","5.1","2.3","A perspiciatis commodi quis nostrum autem voluptatum.","2020-06-20 19:17:36",NULL
+"924","34","2.3","5.1","Sit ut et ipsum voluptate maiores vel sint.","2020-06-20 19:17:36",NULL
+"925","36","5.1","5.1","Minus molestiae et rerum sunt officia.","2020-06-20 19:17:36",NULL
+"926","11","5.1","2.3","Animi qui perferendis eum quia similique.","2020-06-20 19:17:36",NULL
+"927","41","5.1","5.1","Id dolor aut ipsa quo.","2020-06-20 19:17:36",NULL
+"928","8","2.2","2.3","Et nam ipsum rerum in.","2020-06-20 19:17:36",NULL
+"929","21","5.1","2.3","Rerum nobis quas maiores harum.","2020-06-20 19:17:36",NULL
+"930","29","5.1","5.1","In rerum quia dolorum harum.","2020-06-20 19:17:36",NULL
+"931","17","2.3","2.2","Voluptatem ut ipsum est.","2020-06-20 19:17:37",NULL
+"932","32","2.3","5.1","Provident voluptatibus at sunt omnis explicabo.","2020-06-20 19:17:37",NULL
+"933","19","5.1","5.1","Iste iusto facilis et assumenda.","2020-06-20 19:17:37",NULL
+"934","30","5.1","2.3","Rerum deleniti dolorem nostrum mollitia temporibus deserunt.","2020-06-20 19:17:37",NULL
+"935","38","2.3","2.2","Ut consequatur enim quis in exercitationem sit.","2020-06-20 19:17:37",NULL
+"936","44","5.1","5.1","Quas dicta illum numquam quia id.","2020-06-20 19:17:37",NULL
+"937","37","2.3","2.2","Cum aperiam maiores natus.","2020-06-20 19:17:37",NULL
+"938","4","2.3","5.1","Qui sed vitae molestias consectetur ex tempora doloremque.","2020-06-20 19:17:37",NULL
+"939","4","2.2","2.2","Quisquam ut et et nam.","2020-06-20 19:17:37",NULL
+"940","35","2.2","5.1","Explicabo doloribus hic recusandae.","2020-06-20 19:17:37",NULL
+"941","50","5.1","2.2","Est id ea sint blanditiis numquam totam modi.","2020-06-20 19:17:37",NULL
+"942","42","2.3","2.3","Quia enim similique nihil nemo corporis ea non.","2020-06-20 19:17:37",NULL
+"943","13","2.3","5.1","Sint consequatur ad autem qui nihil cumque voluptatibus.","2020-06-20 19:17:37",NULL
+"944","8","5.1","5.1","Id laborum quis ut hic.","2020-06-20 19:17:37",NULL
+"945","30","2.2","2.2","Et ratione tempora incidunt inventore non adipisci eos rem.","2020-06-20 19:17:37",NULL
+"946","14","2.2","2.2","Dicta facere totam cumque dolorem.","2020-06-20 19:17:37",NULL
+"947","47","5.1","5.1","Vel porro quia molestiae ut quaerat sit.","2020-06-20 19:17:37",NULL
+"948","38","2.2","2.2","Quod ut vel enim sed est modi adipisci.","2020-06-20 19:17:37",NULL
+"949","5","2.2","5.1","Quae ut in quaerat id molestias quam qui.","2020-06-20 19:17:37",NULL
+"950","13","2.2","2.2","Fugit at consequatur explicabo quis qui amet autem ut.","2020-06-20 19:17:37",NULL
+"951","12","5.1","2.2","Est velit sequi temporibus illum aliquid.","2020-06-20 19:17:37",NULL
+"952","41","5.1","2.2","Voluptatem ducimus qui consequatur voluptas similique voluptates.","2020-06-20 19:17:37",NULL
+"953","10","2.2","5.1","Non ut corporis nobis rerum consequatur ex.","2020-06-20 19:17:37",NULL
+"954","22","5.1","5.1","Quae consectetur nihil odio.","2020-06-20 19:17:37",NULL
+"955","27","2.2","2.3","Dolores sunt ex quo exercitationem quibusdam quod.","2020-06-20 19:17:37",NULL
+"956","26","5.1","5.1","Vero eos qui omnis quam consectetur excepturi.","2020-06-20 19:17:37",NULL
+"957","36","5.1","2.2","Quidem et eos dicta.","2020-06-20 19:17:37",NULL
+"958","22","2.3","2.3","Nobis impedit ducimus dolore mollitia.","2020-06-20 19:17:37",NULL
+"959","4","5.1","2.2","Sequi ut quae quam.","2020-06-20 19:17:37",NULL
+"960","49","2.2","5.1","Ut consectetur esse est exercitationem et minima.","2020-06-20 19:17:37",NULL
+"961","9","5.1","2.3","Quod sed consectetur eum illo.","2020-06-20 19:17:37",NULL
+"962","28","5.1","2.2","Praesentium necessitatibus impedit amet facilis maiores culpa.","2020-06-20 19:17:37",NULL
+"963","21","2.3","2.3","Ut sapiente eligendi est quia quia hic odit.","2020-06-20 19:17:37",NULL
+"964","3","2.2","5.1","Mollitia unde minus eos placeat sit.","2020-06-20 19:17:37",NULL
+"965","40","2.2","2.3","Quae eum debitis vel quia.","2020-06-20 19:17:37",NULL
+"966","20","5.1","5.1","Veritatis ratione harum expedita alias fuga animi.","2020-06-20 19:17:37",NULL
+"967","9","2.2","2.3","Quam cupiditate accusamus nihil neque.","2020-06-20 19:17:37",NULL
+"968","15","2.2","5.1","Id placeat fugit et assumenda debitis placeat sed fugit.","2020-06-20 19:17:37",NULL
+"969","48","5.1","2.3","Distinctio id suscipit repellat nemo.","2020-06-20 19:17:38",NULL
+"970","6","5.1","5.1","Harum velit delectus iste ea voluptatem.","2020-06-20 19:17:38",NULL
+"971","26","2.2","5.1","Est harum voluptate et repellendus ut earum placeat odit.","2020-06-20 19:17:38",NULL
+"972","17","5.1","2.2","Cupiditate esse qui in ut eveniet.","2020-06-20 19:17:38",NULL
+"973","45","5.1","2.3","Ipsa neque ex dolorem quis rem facilis.","2020-06-20 19:17:38",NULL
+"974","22","2.3","2.3","Recusandae quaerat unde repudiandae sed.","2020-06-20 19:17:38",NULL
+"975","48","2.2","5.1","Quis blanditiis quibusdam neque doloremque aut hic.","2020-06-20 19:17:38",NULL
+"976","12","5.1","5.1","Vero est vel debitis dolores pariatur odit perferendis maxime.","2020-06-20 19:17:38",NULL
+"977","15","2.3","5.1","Non exercitationem nostrum vitae.","2020-06-20 19:17:38",NULL
+"978","19","2.2","2.2","Repellat unde quidem neque sapiente delectus.","2020-06-20 19:17:38",NULL
+"979","39","5.1","2.3","Cumque tempore fuga quo atque quod.","2020-06-20 19:17:38",NULL
+"980","43","2.2","5.1","Magnam harum nulla reprehenderit aut et veritatis.","2020-06-20 19:17:38",NULL
+"981","27","5.1","5.1","Deserunt ipsa placeat voluptates at tempora.","2020-06-20 19:17:38",NULL
+"982","34","2.2","2.3","Vel eaque mollitia et nesciunt dolores.","2020-06-20 19:17:38",NULL
+"983","39","2.3","5.1","Quas eum et odit.","2020-06-20 19:17:38",NULL
+"984","2","5.1","2.3","Sequi quos alias dolore quia provident.","2020-06-20 19:17:38",NULL
+"985","10","2.2","2.2","Ratione qui odio aut at perspiciatis.","2020-06-20 19:17:38",NULL
+"986","25","5.1","5.1","Consequatur facilis est voluptas ad illo nisi.","2020-06-20 19:17:38",NULL
+"987","12","2.3","2.3","Voluptates sit nobis unde aspernatur.","2020-06-20 19:17:38",NULL
+"988","39","2.3","5.1","Labore quis corporis perspiciatis et.","2020-06-20 19:17:38",NULL
+"989","7","2.2","2.2","Aut dolores consequatur itaque ea.","2020-06-20 19:17:38",NULL
+"990","37","2.3","5.1","Ipsa soluta quisquam et id et.","2020-06-20 19:17:38",NULL
+"991","15","2.3","5.1","Magni sunt consequatur est aliquam doloremque quasi quas.","2020-06-20 19:17:38",NULL
+"992","33","5.1","5.1","Repellendus et exercitationem reprehenderit ea.","2020-06-20 19:17:38",NULL
+"993","18","5.1","2.2","Autem quo et minus similique dolor earum expedita ratione.","2020-06-20 19:17:38",NULL
+"994","18","2.3","2.2","Non voluptatibus error voluptatem dolore nam aperiam.","2020-06-20 19:17:38",NULL
+"995","33","5.1","5.1","Nihil voluptas dolores perferendis non.","2020-06-20 19:17:38",NULL
+"996","28","5.1","2.2","Quibusdam dolores soluta modi.","2020-06-20 19:17:38",NULL
+"997","28","5.1","5.1","Sapiente mollitia labore non delectus molestias qui illum.","2020-06-20 19:17:38",NULL
+"998","16","5.1","5.1","Veritatis tenetur sit voluptates nemo ut dolores officiis.","2020-06-20 19:17:38",NULL
+"999","27","2.2","5.1","Molestias ea neque dolor nam.","2020-06-20 19:17:38",NULL
+"1000","8","5.1","2.3","Ipsa sequi perspiciatis amet voluptas enim voluptatem.","2020-06-20 19:17:38",NULL

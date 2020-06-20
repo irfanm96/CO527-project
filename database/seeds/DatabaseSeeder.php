@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
         $this->call(ConferenceSeeder::class);
 
         $roles = [1, 2, 3, 4];
-        factory(User::class, 1000)->create()->each(function ($user) use ($roles) {
+        factory(User::class, 10000)->create()->each(function ($user) use ($roles) {
             $user->roles()->attach($roles[array_rand($roles)]);
             $user->submissions()->saveMany(factory(Submission::class, rand(1, 10))->make());
             $user->supportTickets()->saveMany(factory(SupportTicket::class, rand(1, 3))->make());

@@ -12,6 +12,6 @@ class ReviewScoreTableSeeder extends Seeder
      */
     public function run()
     {
-        factory(ReviewScore::class, 100)->create();
+        factory(ReviewScore::class, 1000)->create();
     }
 }
