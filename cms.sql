@@ -95,6 +95,8 @@ CREATE TABLE IF NOT EXISTS conferences (
     createdAt timestamp default current_timestamp,
     updatedAt timestamp
 );
+
+
 CREATE TABLE IF NOT EXISTS coupon_codes (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     conference_id INT NOT NULL,
@@ -105,6 +107,7 @@ CREATE TABLE IF NOT EXISTS coupon_codes (
     updatedAt timestamp,
     FOREIGN KEY (conference_id) REFERENCES conferences(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
+
 CREATE TABLE IF NOT EXISTS tickets (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     user_id INT NOT NULL,

@@ -15,7 +15,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        DB::unprepared(file_get_contents('cms.sql'));
+        DB::unprepared(file_get_contents('files/cms.sql'));
         $this->call(CountriesTableSeeder::class);
         $this->call(SubjectsTableSeeder::class);
         $this->call(RoleSeeder::class);
